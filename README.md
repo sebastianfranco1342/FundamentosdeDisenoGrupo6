@@ -9,7 +9,8 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
  - Carpio Peralta Joaquin Felipe (colaborador) joaquin.carpio@upch.pe
  - Pacheco Vidalon Sebastián Marcelo (colaborador) sebastian.pacheco@upch.pe
 
-![Imagen del grupo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Im%C3%A1genes/imagen%20del%20grupo.jpeg?raw=true)
+![Imagen del grupo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Im%C3%A1genes/fotogrupal.jpeg)
+
 
 ## Tabla de Contenidos:
 
