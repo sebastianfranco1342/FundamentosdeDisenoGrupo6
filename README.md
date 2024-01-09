@@ -1,4 +1,3 @@
-```python
 # Introducción a Fundamentos de Diseño Grupo 1
 Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 
