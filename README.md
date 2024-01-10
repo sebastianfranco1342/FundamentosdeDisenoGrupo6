@@ -11,11 +11,11 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 
 ![Imagen del grupo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Im%C3%A1genes/fotogrupal.jpeg)
 ## Rol de cada integrante del equipo:
-- Orosco Taype Mayerly Nicole: Coordinador de planteamiento de soluciones a la problematica.
-- Rioja Cruz Vanesa Doris: Coordinadora de modelo y materiales del prototipo
-- Franco Alegria Sebastián Stephano: Coordinador del empleamiento de la tecnología dentro de las posibles soluciones.
-- Carpio Peralta Joaquin Felipe: Coordinador de busqueda profunda de información acerca de la problematica
-- Pacheco Vidalon Sebastián Marcelo: Coordinador del código del prototipo
+- Orosco Taype Mayerly Nicole: Coordinador de Planteamiento de soluciones a la problematica.
+- Rioja Cruz Vanesa Doris: Coordinadora de Modelo y materiales del prototipo
+- Franco Alegria Sebastián Stephano: Coordinador del Empleamiento de la tecnología dentro de las posibles soluciones.
+- Carpio Peralta Joaquin Felipe: Coordinador de Búsqueda profunda de información acerca de la problematica
+- Pacheco Vidalon Sebastián Marcelo: Desarrollador del Código del prototipo
 ## Carpetas de gestión del proyecto:
 
  - Documentación: Almacenamiento de fuentes que nos apoyen en conocer la problematica a solucionar y a solucionarla.
