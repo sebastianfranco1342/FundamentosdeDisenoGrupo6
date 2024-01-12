@@ -96,6 +96,7 @@ Función y uso de los materiales de laboratorio para el presente experimento:
 
 Generamos señales eléctricas con el Generador de señales donde modificamos los valores de la frecuencia, amplitud y offset a 1 KHz, 5V y 0V respectivamente. La señal se transmitirá a través del Canal 1 (CH 1).
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.2_Imagen1.jpeg?raw=true" width="380" height="380">
+
 Ajustando los valores de la Posición Vertical, Horizontal y Disparo en el Osciloscopio se puede apreciar que la variación del tiempo entre valle y valle es de 1.00 ms mientras que en el generador de señales se genera señales eléctricas con una variación de tiempo de 1.00 ms.
 
 Por otro lado, la amplitud de la onda entre un extremo y otro es de 100 V en el osciloscopio digital mientras que el valor dentro del generador de señales es de 5 V pero se conoce que es proporcional.
