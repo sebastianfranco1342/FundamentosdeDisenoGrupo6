@@ -6,7 +6,7 @@
 ## Coordinador: Lewis de la Cruz
 ![Imagen Lewis de la Cruz](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas/Im%C3%A1genes/ProfesorLewisdelaCruz.jpeg?raw=true)
 
-Asesores:
+## Asesores:
 
 Profesor Harry Rivera
 
