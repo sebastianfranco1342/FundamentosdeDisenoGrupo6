@@ -61,6 +61,6 @@ A la hora de tomar las mediciones, estos han sido todos los valores anotados:
 
 - Valor #10: 14.01 V
 
-<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida10.jpg?raw=true" width="380" height="350">
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida10.jpg?raw=true" width="380" height="380">
 
 **Experimento #2: Uso del Generador de Señales y Osciloscopio**
