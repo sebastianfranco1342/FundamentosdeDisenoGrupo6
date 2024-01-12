@@ -33,7 +33,7 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
 - Rioja Cruz Vanesa Doris: Coordinadora del Modelado del Prototipo
 - Franco Alegria Sebastián Stephano: Coordinador Electrónico
 - Carpio Peralta Joaquin Felipe: Coordinador General
-- Pacheco Vidalon Sebastián Marcelo: Coordinador de Diseño de la Página Web
+- Pacheco Vidalon Sebastián Marcelo: Coordinador del Diseño de la Página Web
 
 ## Carpetas de gestión del proyecto:
 
