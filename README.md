@@ -15,6 +15,8 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 Nuestro objetivo durante este proyecto es identificar como los cambios de los niveles de humedad y temperatura afecta la producción de los cultivos del Perú".
 
 ## ODS
+![ODS12](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ODS12.JPG)
+
 
 ## Integrantes
 Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano Heredia. Para saber más de nosotros presione el link. 
