@@ -17,5 +17,5 @@ Profesor Harry Rivera
 Profesor Paulo Vega
 
 
-![Imagen Lewis de la Cruz](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ProfesorPauloVega.jpg?raw=true)
+![Imagen Lewis de la Cruz]
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ProfesorPauloVega.jpg?raw=true" width="400" height="430">
