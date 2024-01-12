@@ -19,6 +19,7 @@ El Objetivo de Desarrollo Sostenible (ODS) al que espira nuestro proyecto es el 
 ![ODS12](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ODS12.JPG)
 Fuente: [Almagra Cultura y Naturaleza](https://almagraculturaynaturaleza.blogspot.com/2019/03/metas-y-objetivos-de-la-agenda-2030_43.html)
 
+
 - El ODS 12 aspira modificar el modelo de producción y consumo actual con el fin de aprovechar adecuadamente y preservar los recursos naturales. [(Pacto Mundial, s.f.)](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Documentaci%C3%B3n/Bibliograf%C3%ADa.docx)
 - El ODS 12.6 motiva a las empresas a adoptar practicas sostenibles durante el ciclo de producción. [(Naciones Unidas, s.f.)](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Documentaci%C3%B3n/Bibliograf%C3%ADa.docx)
 
