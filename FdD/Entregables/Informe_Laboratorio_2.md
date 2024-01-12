@@ -12,6 +12,7 @@
 
 - Fuente de manipulación regulable: Este diapositivo se utilizó para suministrar energía a los dispositivos esto fue útil en el desarrollo ya que permite simular diferentes condiciones de voltaje y corriente.
 - Multímetro digital: Es una herramienta que permite medir diferentes parámetros digitales, su principal característica es que los resultados de la medición se muestran en una pantalla LCD, el cuál facilita la lectura e interpretación de los resultados. En este laboratorio nos enfocamos en dos tipos de mediciones:
+
 -- a) Voltímetro: Se puede medir la diferencia de voltaje entre dos puntos de un circuito eléctrico
 -- b) Amperímetro: Se debe colocar en serie con la rama a medir y debe tener muy baja resistencia para evitar una alteración significativa
 
