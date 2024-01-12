@@ -13,7 +13,7 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 ## Objetivo
 <div class=text-justify>
 Nuestro objetivo durante este proyecto es identificar como los cambios de los niveles de humedad y temperatura afecta la producción de los cultivos del Perú".
-
+</div>
 ## ODS
 El Objetivo de Desarrollo Sostenible (ODS) al que espira nuestro proyecto es el ODS 12.6
 ![ODS12](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ODS12.JPG)
@@ -40,7 +40,7 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
 - Pacheco Vidalon Sebastián Marcelo: Coordinador del Diseño de la Página Web
 
 ## Carpetas de gestión del proyecto:
-
+<div class=text-justify>
  - Documentación: En esta sección se proporcionará información detallada sobre el proyecto, incluyendo instrucciones de instalación, uso, contribución y explicaciones sobre el diseño e implementación del proyecto. La documentación es crucial para que otros desarrolladores comprendan y colaboren en el proyecto.
  - Hardware: Servirá para almacenar y organizar los archivos relacionados con el hardware del proyecto. Esto puede incluir archivos de diseño de circuitos, esquemáticos, diagramas de conexión, listas de materiales, archivos de diseño 3D y cualquier otra documentación relacionada con el hardware físico del designio. La carpeta de hardware sirve como un lugar centralizado para todos los recursos y archivos necesarios para comprender, diseñar y construir el componente físico del proyecto.
  - Imágenes: Esta sección incluiremos imágenes relacionados al proyecto, así como los avances en cada entregable para evidenciar el avance progresivo del trabajo colaborativo, donde se incluirá la fecha y el entregable.
