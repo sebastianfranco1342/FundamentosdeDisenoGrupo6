@@ -15,6 +15,7 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 Nuestro objetivo durante este proyecto es identificar como los cambios de los niveles de humedad y temperatura afecta la producción de los cultivos del Perú".
 
 ## ODS
+El Objetivo de Desarrollo Sostenible (ODS) al cual irá direccionado nuestro proyecto será el ODS 12.6
 ![ODS12](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ODS12.JPG)
 
 
