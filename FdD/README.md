@@ -18,4 +18,4 @@ Profesor Paulo Vega
 
 
 ![Imagen Lewis de la Cruz](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ProfesorPauloVega.jpg?raw=true)
-<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ProfesorPauloVega.jpg?raw=true" width="720" height="720">
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ProfesorPauloVega.jpg?raw=true" width="360" height="360">
