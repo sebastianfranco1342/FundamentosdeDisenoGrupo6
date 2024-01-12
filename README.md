@@ -9,8 +9,7 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
  - Carpio Peralta Joaquin Felipe (colaborador) joaquin.carpio@upch.pe
  - Pacheco Vidalon Sebastián Marcelo (colaborador) sebastian.pacheco@upch.pe
 
-![Imagen del Grupo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas_del_Proyecto/Im%C3%A1genes/fotogrupal.jpeg?raw=true
-)
+![Imagen del Grupo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/fotogrupal.jpeg?raw=true)
 ## Rol de cada integrante del equipo:
 - Orosco Taype Mayerly Nicole: Coordinador de Planteamiento de soluciones a la problematica.
 - Rioja Cruz Vanesa Doris: Coordinadora de Modelo y materiales del prototipo
