@@ -40,11 +40,11 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
 - Pacheco Vidalon Sebastián Marcelo: Coordinador del Diseño de la Página Web
 
 ## Carpetas de gestión del proyecto:
-<div class=text-justify>
+
  - Documentación: En esta sección se proporcionará información detallada sobre el proyecto, incluyendo instrucciones de instalación, uso, contribución y explicaciones sobre el diseño e implementación del proyecto. La documentación es crucial para que otros desarrolladores comprendan y colaboren en el proyecto.
  - Hardware: Servirá para almacenar y organizar los archivos relacionados con el hardware del proyecto. Esto puede incluir archivos de diseño de circuitos, esquemáticos, diagramas de conexión, listas de materiales, archivos de diseño 3D y cualquier otra documentación relacionada con el hardware físico del designio. La carpeta de hardware sirve como un lugar centralizado para todos los recursos y archivos necesarios para comprender, diseñar y construir el componente físico del proyecto.
  - Imágenes: Esta sección incluiremos imágenes relacionados al proyecto, así como los avances en cada entregable para evidenciar el avance progresivo del trabajo colaborativo, donde se incluirá la fecha y el entregable.
  - Software: En esta carpeta se almacenará el código fuente, scripts, archivos de configuración, recursos multimedia, documentación técnica, pruebas automatizadas, y cualquier otro recurso relacionado con el desarrollo y la implementación del software puesto que es un lugar centralizado para todos los recursos y archivos necesarios para comprender, desarrollar y mantener el software del proyecto.
-</div>
+
 
 
