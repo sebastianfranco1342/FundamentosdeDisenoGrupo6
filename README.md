@@ -26,10 +26,10 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
  
 ## Tabla de Contenidos:
 
- - [Problematica a solucionar](#problemas-a-solucionar)
- - [Contaminación del aire](#contaminacion-del-aire)
- - [Prototipo solución](#prototipo-solucion)
- - [Resultados](#resultados)
- - [Bibliografía](#bibliografia)
+ - Problematica a solucionar
+ - Contaminación del aire
+ - Prototipo solución
+ - Resultados
+ - Bibliografía
 
 
