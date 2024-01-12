@@ -25,7 +25,7 @@ A la hora de tomar las mediciones, estos han sido todos los valores anotados:
 
 Valor #1: 4.999 V
 ![Valor #1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida1.jpg?raw=true)
-<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida1.jpg?raw=true" width="120" height="120">
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida1.jpg?raw=true" width="120" height="240">
 
 Valor #2: 6.027 V
 ![Valor #1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida2.jpg?raw=true)
