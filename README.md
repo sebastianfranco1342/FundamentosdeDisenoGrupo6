@@ -29,17 +29,17 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
 
 ## Rol de cada integrante del equipo:
 
-- Orosco Taype Mayerly Nicole: Coordinador de Planteamiento de soluciones a la problematica.
-- Rioja Cruz Vanesa Doris: Coordinadora de Modelo y materiales del prototipo
-- Franco Alegria Sebastián Stephano: Coordinador del Empleamiento de la tecnología dentro de las posibles soluciones.
-- Carpio Peralta Joaquin Felipe: Coordinador de Búsqueda profunda de información acerca de la problematica
-- Pacheco Vidalon Sebastián Marcelo: Desarrollador del Código del prototipo
+- Orosco Taype Mayerly Nicole: Coordinadora de Información e Investigación
+- Rioja Cruz Vanesa Doris: Coordinadora del Modelado del Prototipo
+- Franco Alegria Sebastián Stephano: Coordinador Electrónico
+- Carpio Peralta Joaquin Felipe: Coordinador General
+- Pacheco Vidalon Sebastián Marcelo: Coordinador de Diseño de la Página Web
 
 ## Carpetas de gestión del proyecto:
 
  - Documentación: Almacenamiento de fuentes que nos apoyen en conocer la problematica a solucionar y a solucionarla.
  - Hardware: Material que vamos a necesitar para la elaboración del prototipo 
  - Software: Sistema que vamos a emplear dentro del prototipo
- - Imagenes: Almacenamiento todas las imagenes que se utilizaran en presentaciones.
+ - Imágenes: Almacenamiento todas las imagenes que se utilizaran en presentaciones.
 
 
