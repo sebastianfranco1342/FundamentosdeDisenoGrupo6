@@ -24,18 +24,22 @@ Como primer paso configuramos la fuente de alimentación con valores iniciales d
 A la hora de tomar las mediciones, estos han sido todos los valores anotados:
 
 Valor #1: 4.999 V
+
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida1.jpg?raw=true" width="380" height="430">
 
-Valor #2: 6.027 V
+- Valor #2: 6.027 V
+
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida2.jpg?raw=true" width="380" height="430">
 
-Valor #3: 7.05 V
+- Valor #3: 7.05 V
+
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida3.jpg?raw=true" width="380" height="430">
 
-Valor #4: 8.05 V
+- Valor #4: 8.05 V
+
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida4.jpg?raw=true" width="380" height="430">
 
-Valor #5: 8.98
+- Valor #5: 8.98
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida5.jpg?raw=true" width="380" height="430">
 
 Valor #6: 9.97
