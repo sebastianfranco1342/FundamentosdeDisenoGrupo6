@@ -63,4 +63,25 @@ A la hora de tomar las mediciones, estos han sido todos los valores anotados:
 
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida10.jpg?raw=true" width="380" height="380">
 
+Una vez recopilado los datos, los organizamos en una tabla en donde también deben de colocarse sus errorres absolutos y relativos así como el promedio de todos los valores.
+Las formulas que se han empleado han sido las siguientes:
+
+Error absoluto = | Valor Real - Valor Medido |
+
+Error relativo = (Error absoluto/Valor Real) * 100%
+
+| N° |Valor Real | Valor Medido | Error Absoluto  | Error Relativo |
+|--|--|--|--|--|
+| 1 | 5.00 V | 4.999 V| 0.001 | 0.02% |
+| 2 | 6.00 V | 6.027 V | 0.027 | 0.45% |
+| 3 | 7.00 V | 7.05 V | 0.05 | 0.71% |
+| 4 | 8.00 V | 8.05 V | 0.05 | 0.625% |
+| 5 | 9.00 V | 8.98 V | 0.02 | 0.22% |
+| 6 | 10.00 V | 9.97 V | 0.03 | 0.3% |
+| 7 | 11.00 V | 11.07 V | 0.07 | 0.63% |
+| 8 | 12.00 V | 12.05 V | 0.05 | 0.41% |
+| 9 | 13.00 V | 12.98 V | 0.02 | 0.15% |
+| 10 | 14.00 V | 14. 01 V | 0.01 | 0.07% |
+|  |  | Promedio General| 0.0328 | 0.3585% |
+
 **Experimento #2: Uso del Generador de Señales y Osciloscopio**
