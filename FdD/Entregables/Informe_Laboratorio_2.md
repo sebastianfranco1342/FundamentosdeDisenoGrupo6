@@ -23,7 +23,7 @@ Como primer paso configuramos la fuente de alimentación con valores iniciales d
 
 A la hora de tomar las mediciones, estos han sido todos los valores anotados:
 
-Valor #1: 4.999 V
+- Valor #1: 4.999 V
 
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida1.jpg?raw=true" width="380" height="430">
 
@@ -42,18 +42,25 @@ Valor #1: 4.999 V
 - Valor #5: 8.98
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida5.jpg?raw=true" width="380" height="430">
 
-Valor #6: 9.97
-![Valor #1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida6.jpg?raw=true)
+- Valor #6: 9.97
 
-Valor #7: 11.07
-![Valor #1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida7.jpg?raw=true)
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida6.jpg?raw=true" width="380" height="430">
 
-Valor #8: 12.05
-![Valor #1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida8.jpg?raw=true)
+- Valor #7: 11.07
 
-Valor #9: 12.98 V
-![Valor #1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida9.jpg?raw=true)
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida7.jpg?raw=true" width="380" height="430">
 
-Valor #10: 14.01 V
-![Valor #1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida10.jpg?raw=true)
+
+- Valor #8: 12.05
+
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida8.jpg?raw=true" width="380" height="430">
+
+- Valor #9: 12.98 V
+
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida9.jpg?raw=true" width="380" height="430">
+
+- Valor #10: 14.01 V
+
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida10.jpg?raw=true" width="380" height="430">
+
 **Experimento #2: Uso del Generador de Señales y Osciloscopio**
