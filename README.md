@@ -1,6 +1,15 @@
 ﻿# Introducción a Fundamentos de Diseño Grupo 1
 Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 
+## Tabla de Contenidos:
+
+ - Objetivo
+ - ODS
+ - Integrantes
+ - Resultados
+ - Bibliografía
+
+
 ## Objetivo
 
 Nuestro objetivo durante este proyecto es identificar como los cambios de los niveles de humedad y temperatura afecta la producción de los cultivos del Perú".
@@ -29,13 +38,5 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
  - Hardware: Material que vamos a necesitar para la elaboración del prototipo 
  - Software: Sistema que vamos a emplear dentro del prototipo
  - Imagenes: Almacenamiento todas las imagenes que se utilizaran en presentaciones.
- 
-## Tabla de Contenidos:
-
- - Problematica a solucionar
- - Contaminación del aire
- - Prototipo solución
- - Resultados
- - Bibliografía
 
 
