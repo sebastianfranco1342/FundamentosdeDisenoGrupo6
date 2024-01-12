@@ -3,9 +3,9 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 
 ## Tabla de Contenidos:
 
- - Objetivo
- - ODS
- - Integrantes
+ - [Objetivo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/README.md#objetivo)
+ - [ODS](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/README.md#ods)
+ - [Integrantes](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/README.md#integrantes)
  - Resultados
  - Bibliografía
 
