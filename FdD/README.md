@@ -11,7 +11,6 @@ La asignatura de Fundamentos de Diseño es de naturaleza teórico - práctica y 
 Profesor Harry Rivera
 
 
-![Imagen Lewis de la Cruz](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ProfesorHarryRivera.png?raw=true)
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ProfesorHarryRivera.png?raw=true" width="400" height="430">
 
 Profesor Paulo Vega
