@@ -11,7 +11,7 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 
 
 ## Objetivo
-
+<div class=text-justify>
 Nuestro objetivo durante este proyecto es identificar como los cambios de los niveles de humedad y temperatura afecta la producción de los cultivos del Perú".
 
 ## ODS
@@ -45,6 +45,6 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
  - Hardware: Servirá para almacenar y organizar los archivos relacionados con el hardware del proyecto. Esto puede incluir archivos de diseño de circuitos, esquemáticos, diagramas de conexión, listas de materiales, archivos de diseño 3D y cualquier otra documentación relacionada con el hardware físico del designio. La carpeta de hardware sirve como un lugar centralizado para todos los recursos y archivos necesarios para comprender, diseñar y construir el componente físico del proyecto.
  - Imágenes: Esta sección incluiremos imágenes relacionados al proyecto, así como los avances en cada entregable para evidenciar el avance progresivo del trabajo colaborativo, donde se incluirá la fecha y el entregable.
  - Software: En esta carpeta se almacenará el código fuente, scripts, archivos de configuración, recursos multimedia, documentación técnica, pruebas automatizadas, y cualquier otro recurso relacionado con el desarrollo y la implementación del software puesto que es un lugar centralizado para todos los recursos y archivos necesarios para comprender, desarrollar y mantener el software del proyecto.
-
+</div>
 
 
