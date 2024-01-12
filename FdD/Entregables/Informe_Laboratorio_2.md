@@ -85,3 +85,29 @@ Error relativo = (Error absoluto/Valor Real) * 100%
 |  |  | Promedio General| 0.0328 | 0.3585% |
 
 **Experimento #2: Uso del Generador de Señales y Osciloscopio**
+
+Durante este experimento nos pedían ajustar los valores del osciloscopio digital para que la señal sinusoidal que obtenemos a través del Generador de señales se pueda ver en el oscilograma.
+
+Función y uso de los materiales de laboratorio para el presente experimento:
+
+-   Generador de señales: Este material proporciona señales eléctricas tanto en términos de forma de onda como de frecuencia y amplitud, se utiliza para obtener señales periódicas donde la tensión varía periódicamente en el tiempo.
+    
+-   Osciloscopio digital: A través del Osciloscopio digital se representará una gráfica a partir de las señales eléctricas del generador de señales donde la amplitud se representa en el eje vertical mientras que en el eje horizontal el tiempo.
+
+Generamos señales eléctricas con el Generador de señales donde modificamos los valores de la frecuencia, amplitud y offset a 1 KHz, 5V y 0V respectivamente. La señal se transmitirá a través del Canal 1 (CH 1).
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.2_Imagen1.jpeg?raw=true" width="380" height="380">
+Ajustando los valores de la Posición Vertical, Horizontal y Disparo en el Osciloscopio se puede apreciar que la variación del tiempo entre valle y valle es de 1.00 ms mientras que en el generador de señales se genera señales eléctricas con una variación de tiempo de 1.00 ms.
+
+Por otro lado, la amplitud de la onda entre un extremo y otro es de 100 V en el osciloscopio digital mientras que el valor dentro del generador de señales es de 5 V pero se conoce que es proporcional.
+
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.2_Imagen2.jpeg?raw=true" width="650" height="380">
+
+Valores ajustados de la gráfica:
+: 4000 µs
+Tiempo retardado  : 121.6 μs
+: 312 kS/s
+Duración del registro: 2000 puntos
+
+**Valores medidos de la seña de entrada de un periodo:**
+- Voltaje pico: 1.22 V
+- Frecuencia 1.00 kHz
