@@ -53,7 +53,7 @@ A la hora de tomar las mediciones, estos han sido todos los valores anotados:
 
 - Valor #8: 12.05
 
-<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida8.jpg?raw=true" width="380" height="430">
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.1_Medida8.jpg?raw=true" width="380" height="400">
 
 - Valor #9: 12.98 V
 
