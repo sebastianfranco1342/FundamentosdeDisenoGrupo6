@@ -2,7 +2,8 @@
 Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 
 ## Integrantes
-Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano Heredia. Para saber más de nosotros presione el link [Sobre Nosotros](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/FdD/Entregables/Sobre_Nosotros.md)
+Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano Heredia. Para saber más de nosotros presione el link. 
+[Sobre Nosotros](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/FdD/Entregables/Sobre_Nosotros.md)
 
 
 ![Imagen del Grupo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/fotogrupal.jpeg?raw=true)
