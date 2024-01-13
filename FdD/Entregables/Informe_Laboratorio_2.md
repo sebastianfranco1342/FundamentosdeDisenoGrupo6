@@ -102,7 +102,7 @@ Generamos señales eléctricas con el Generador de señales donde modificamos lo
 
 Ajustando los valores de la Posición Vertical, Horizontal y Disparo en el Osciloscopio se puede apreciar que la variación del tiempo entre valle y valle es de 1.00 ms mientras que en el generador de señales se genera señales eléctricas con una variación de tiempo de 1.00 ms.
 
-Por otro lado, la amplitud de la onda entre un extremo y otro es de 100 V en el osciloscopio digital mientras que el valor dentro del generador de señales es de 5 V pero se conoce que es proporcional.
+Por otro lado, la amplitud de la onda entre un extremo y otro es de 100 V en el osciloscopio digital mientras que el valor dentro del generador de señales es de 5 V pero se conoce que es proporcional. Esto se pudo haber corregido cambiando la escala de voltios a mV, de esta forma cada cuadrado equivaldría la mitad de un voltio.
 
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.2_Imagen2.jpeg?raw=true" width="650" height="380">
 
