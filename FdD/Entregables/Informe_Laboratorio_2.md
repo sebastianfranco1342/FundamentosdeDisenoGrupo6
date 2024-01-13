@@ -107,9 +107,9 @@ Por otro lado, la amplitud de la onda entre un extremo y otro es de 100 V en el 
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab2_Procedimiento5.2_Imagen2.jpeg?raw=true" width="650" height="380">
 
 Valores ajustados de la gráfica:
-- : 4000 µs
-- Tiempo retardado  : 121.6 μs
-- : 312 kS/s
+- : 400 µs
+- Tiempo retardado: 121.6 μs
+- Tasa de muestreo: 312 kS/s
 - Duración del registro: 2000 puntos
 
 Valores medidos de la seña de entrada de un periodo:
