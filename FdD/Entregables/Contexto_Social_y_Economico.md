@@ -48,6 +48,7 @@ A nivel Nacional, el Perú sufre de escasez hídrica, principalmente por las seq
 
 Tabla 1: Características de las sequías en términos de intensidad y severidad. (SENAMHI, 2019).
 Además de ello, durante el mes de Septiembre en el 2023, se han registrado entre 20 a 30 días secos consecutivos en Cajamarca y Puno, este número resultó ser mayor al que el SENAMHI había establecido para esa temporada que era de 15 a 19 días.
+
 ![Días secos consecutivos en el mes de Septiembre del 2023](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%204.png?raw=true)
 
 Imágen 4: Días secos consecutivos en el mes de Septiembre del 2023. (SENAMHI, 2023).
