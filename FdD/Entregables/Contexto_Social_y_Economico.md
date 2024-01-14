@@ -18,19 +18,23 @@ Un nuevo informe del Banco Mundial encuentra que la escasez de agua, exacerbada 
 ![El estrés Hídrico en el mundo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%201.png?raw=true)
 
 Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
+
 2. **Nivel Regional**
 **Estados Unidos:**
 En el año 2023, el fenómeno climático La Niña produjo una feroz sequía que afectó a diversos agricultores de importantes sembríos de trigo en Estados Unidos quienes llegaron al punto de casi abandonar sus cultivos. (USDA, 2023). Según el Departamento de agricultura de los Estados Unidos, se espera que los productores cosechen solo el 67% de sus plantaciones, lo cual sería la tasa de cosecha más baja desde 1917 (USDA, 2023)
 ![Monitor de Sequía de América del Norte](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%202.png?raw=true)
 
 Imágen 2: Mapa del monitor de sequía en América del Norte para julio del 2022 (CONAGUA, 2022).
+
 **México:**
 En las últimas décadas, la sequía se convirtió en un fenómeno recurrente en diversos estados del territorio mexicano, el cual ha llegado a afectar drásticamente a producciones agrícolas, sector ganadero y población en general.
 La última sequía del 2022 puso en riesgo a todo el país puesto que impactó a más del 60% del territorio nacional provocando pérdidas incalculables en la agricultura, especialmente en cultivos de trigo, frijol y maíz. (Sanchez, Karla et al., 2023)
 Las recurrentes sequías han hecho que disminuya la población en los campos y los agricultores cambien de ocupación. Por ejemplo, durante 1983 y 1988 se produjo un abandono del 9 % y 12 % de agricultores. (Sanchez, K. et al, 2023)
+
 **Brasil:**
 Las altas temperaturas que registra Brasil en los últimos años, la disminución del volumen de lluvias y fenómenos climáticos como La Niña, provocaron una intensa sequía que está afectando gravemente el sector agrícola de la nación. La sequía generó un retraso en las cosechas comprometiendo la siembra de nuevos cultivos. (Aprosoja, 2023)
 Según un informe de la Asociación de Productores de Maíz y Soja de Mato Grosso (Aprosoja, 2023), el calor y la sequía tienen un gran impacto en los cultivos de soja afectando su rendimiento y generando una caída de producción del 20%.
+
 **Chile:**
 Desde hace una década la zona central de Chile atraviesa una intensa sequía la cual obligó al Gobierno chileno a decretar “zona de emergencia agrícola” en el intento de solventar recursos a los agricultores. Sin embargo, se espera que las consecuencias que produzca la sequía perduren en el tiempo logrando un cambio histórico en la agricultura y ganadería chilenas. (Fundación Chile, 2021).
 Según la ONG Fundación Chile (2021), el 76% de la superficie del país sufre una sequía severa posicionando a Chile en una situación grave en cuanto a disponibilidad de agua para consumo y para suministro a distintos sectores como agricultura y ganadería.
@@ -46,11 +50,16 @@ Además de ello, durante el mes de Septiembre en el 2023, se han registrado entr
 ![Días secos consecutivos en el mes de Septiembre del 2023](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%204.png?raw=true)
 
 Imágen 4: Días secos consecutivos en el mes de Septiembre del 2023. (SENAMHI, 2023).
+
 **Puno:**
 En Enero del 2023, Puno tuvo su mes más seco, esto se debe a la falta de lluvias durante la zona. Según el SENAMHI (2023), hubo el déficit de lluvias de la zona se encontraba entre -30% a -100% durante una periodo de 10 a 23 días. Este fenómeno ocasionó un gran déficit hídrico para la zona, ocasionando la descendencia de los niveles de agua del Lago Titicaca y el retraso de diversos cultivos (quinua, papa y avena) en su cosecha debido a su bajo desarrollo en condiciones secas.
+
 **Cajamarca:**
 El SENAMHI pronosticó que existiría una escasez de lluvias durante el 2022 al 2023 debido al cambio climático y por la temperatura fría del mar de la costa peruana. Esto ocasionó que las campañas agrícolas que se habían planteado para que se den durante estos intervalos de tiempo se vean afectadas, disminuyendo el rendimiento de estas. Así mismo, la generación de pastizales por la parte pecuaria también se estaría viendo afectada.
+
+
 ## Contexto Económico:
+
 1. **Nivel Mundial:**
 La escasez de agua es una preocupación importante para el futuro sostenible de la humanidad y la conservación de los ecosistemas. La escasez de agua puede ser física, donde hay una falta real de agua, o económica, donde el agua está disponible pero no se puede utilizar debido a limitaciones económicas o institucionales.
 La “insuficiencia económica de agua para la agricultura” se interpreta como la ausencia de riego debido a restricciones institucionales y financieras, en lugar de limitaciones de agua. Hasta ahora, no se sabe dónde se encuentran las áreas de cultivo que sufren de falta de agua desde una perspectiva económica ni cuál es su potencial productivo. Se ha realizado un estudio agro hidrológico mensual para identificar las áreas agrícolas afectadas por la falta económica de agua, descubriendo que estas áreas representan hasta el 25% de las tierras de cultivo globales, principalmente en África subsahariana, Europa oriental y Asia central. El riego sostenible de las tierras de cultivo que sufren de escasez económica de agua podría proporcionar alimentos a 840 millones de personas adicionales y, al mismo tiempo, prevenir un empeoramiento de la escasez de agua dulce.
@@ -63,6 +72,7 @@ Solo el 77% de las áreas cultivadas globalmente son alimentadas por lluvia, mie
 Imagen 6: La distribución geográfica de la falta de agua a nivel mundial para la agricultura. ()
 
 2. **Nivel Regional**
+
 **México:**
 Los altos valores de estrés hídrico que presenta México, de no ser que se intervengan de manera rápida, ocasionará que los estados que presenta alta escasez hídrica, como el Bajío, tengan su economía detenida puesto que ellos han de tener que financiar múltiples gastos para que se de una mejor organización con respecto al agua.
 
@@ -73,17 +83,20 @@ Frente a esta gran escasez hídrica, “el presupuesto federal de 2023 casi trip
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Gr%C3%A1fico%201.png?raw=true)
 
 Gráfica 1: Presupuesto de agua de México del 2012 a 2023. (Secretaría de Hacienda y Crédito Público (SHCP PEF, 2012- 2023))
+
 **Estados Unidos:**
 Estados Unidos es el mayor productor agrícola en una gran gama de productos como soja, maíz, trigo, algodón, entre muchos otros, así como el principal exportador de estos mismos productos. Según el Departamento de Agricultura de Estados Unidos, este sector primario aporta entre un 5,4 % a 6 % del PBI anual y en el 2021 cerca de 21,1 millones de puestos de trabajo a tiempo completo o parcial estaban conectados con el sector agrícola y alimentario (Santander Trade, 2023).
 ![Valor de la producción agrícola en Estados Unidos entre 2015 y 2021](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%202.png?raw=true)
 
 Tabla 2: Valor de la producción agrícola en Estados Unidos entre 2015 y 2021 (en millones de dólares) (Statista, 2019.)
+
 **Chile:**
 Frente a la crisis hídrica que pasaba Chile, la Comisión Nacional de Riego del país aportó 29 mil millones de pesos mediante el programa Pequeña Agricultura durante el 2018 a 2021. Además de ello, “ha bonificado proyectos por más de 206 mil millones de pesos que tienen como objeto apoyar la mejora en infraestructura hídrica a nivel intra y extrapredial de pequeños agricultores y sus organizaciones” (Alfredo, 2022).
 Además de ello, el Instituto de Desarrollo agropecuario busca promover el buen uso del agua en las zonas rurales y urbanas del país mediante programas como: Programa de Riego Asociativo (PRA), Programa de Riego Individual (PRI), Programa de Obras Menores de Riego (PROM) y Bono Legal del Agua (BLA).
 ![Presupuesto y cobertura que han tenido los programas.](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Cuadro%201.png?raw=true)
 
 Tabla 2: Presupuesto y cobertura que han tenido los programas. (Moreno, 2022).
+
 3. **Nacional**
 El desempeño del sector agropecuario peruano ha sido muy positivo durante los últimos años con un rendimiento bastante destacable específicamente en el área de las agroexportaciones. Se tenía pronosticado que para el 2023 el sector agropecuario del Perú logre mantener su ritmo de crecimiento anual del 4% en promedio como en los últimos 20 años (Vinelli, 2022).
 Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón Yaku, han llevado al sector agropecuario peruano a contraerse por primera vez en varios años. Esto se ve reflejado en la reducción del empleo en el sector agrícola del 20% afectando a 121,000 personas (Agronline, 2023).
