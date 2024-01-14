@@ -15,6 +15,7 @@ Un nuevo informe del Banco Mundial encuentra que la escasez de agua, exacerbada 
 -   El 80% de las aguas residuales retornan al ecosistema sin ser tratadas o reutilizadas (UNESCO, 2017).   
 -   Alrededor de dos tercios de los ríos transfronterizos del mundo no tienen un marco de gestión cooperativa (SIWI).
 -   La agricultura representa el 70% de la extracción mundial de agua (FAO).
+
 ![El estrés Hídrico en el mundo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%201.png?raw=true)
 
 Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
@@ -22,6 +23,7 @@ Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
 2. **Nivel Regional**
 **Estados Unidos:**
 En el año 2023, el fenómeno climático La Niña produjo una feroz sequía que afectó a diversos agricultores de importantes sembríos de trigo en Estados Unidos quienes llegaron al punto de casi abandonar sus cultivos. (USDA, 2023). Según el Departamento de agricultura de los Estados Unidos, se espera que los productores cosechen solo el 67% de sus plantaciones, lo cual sería la tasa de cosecha más baja desde 1917 (USDA, 2023)
+
 ![Monitor de Sequía de América del Norte](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%202.png?raw=true)
 
 Imágen 2: Mapa del monitor de sequía en América del Norte para julio del 2022 (CONAGUA, 2022).
@@ -38,12 +40,14 @@ Según un informe de la Asociación de Productores de Maíz y Soja de Mato Gross
 **Chile:**
 Desde hace una década la zona central de Chile atraviesa una intensa sequía la cual obligó al Gobierno chileno a decretar “zona de emergencia agrícola” en el intento de solventar recursos a los agricultores. Sin embargo, se espera que las consecuencias que produzca la sequía perduren en el tiempo logrando un cambio histórico en la agricultura y ganadería chilenas. (Fundación Chile, 2021).
 Según la ONG Fundación Chile (2021), el 76% de la superficie del país sufre una sequía severa posicionando a Chile en una situación grave en cuanto a disponibilidad de agua para consumo y para suministro a distintos sectores como agricultura y ganadería.
+
 ![Laguna de Aculeo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%203.png?raw=true)
 
 Imágen 3: Laguna de Aculeo,centro de Chile, ejemplificación de las consecuencias de la sequía (Dirección General de Aguas, 2019).
 
 3. **Nivel Nacional:**
 A nivel Nacional, el Perú sufre de escasez hídrica, principalmente por las sequías, a lo largo de cada año. Según el SENAMHI (2019), entre 1982 a 2018 hubo 19 años en los que varios de los distritos del Perú han sufrido episodios de sequías. Entre los años que han afectado a la mayor cantidad de distritos han sido 1990, 1992 y 2004 que han afectado a 19, 16 y 10 distritos respectivamente.
+
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%201.png?raw=true)
 
 Tabla 1: Características de las sequías en términos de intensidad y severidad. (SENAMHI, 2019).
@@ -65,10 +69,12 @@ El SENAMHI pronosticó que existiría una escasez de lluvias durante el 2022 al 
 1. **Nivel Mundial:**
 La escasez de agua es una preocupación importante para el futuro sostenible de la humanidad y la conservación de los ecosistemas. La escasez de agua puede ser física, donde hay una falta real de agua, o económica, donde el agua está disponible pero no se puede utilizar debido a limitaciones económicas o institucionales.
 La “insuficiencia económica de agua para la agricultura” se interpreta como la ausencia de riego debido a restricciones institucionales y financieras, en lugar de limitaciones de agua. Hasta ahora, no se sabe dónde se encuentran las áreas de cultivo que sufren de falta de agua desde una perspectiva económica ni cuál es su potencial productivo. Se ha realizado un estudio agro hidrológico mensual para identificar las áreas agrícolas afectadas por la falta económica de agua, descubriendo que estas áreas representan hasta el 25% de las tierras de cultivo globales, principalmente en África subsahariana, Europa oriental y Asia central. El riego sostenible de las tierras de cultivo que sufren de escasez económica de agua podría proporcionar alimentos a 840 millones de personas adicionales y, al mismo tiempo, prevenir un empeoramiento de la escasez de agua dulce.
+
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%205.png?raw=true)
 
 Imagen 5: Marco conceptual y alcance de los SAT agrícolas ()
 Solo el 77% de las áreas cultivadas globalmente son alimentadas por lluvia, mientras que el 23% son actualmente irrigadas. Dentro de los cultivos nutridos por la lluvia, solo el 24% no posee escasez de agua verde, contrario que con el 76%. Entre el 28–38% se indica la escasez de agua azul para el sector que dependen de la lluvia, siendo menor la escasez para las areas irrigadas que varían entre 11-16%. Esto representa áreas donde los recursos de agua superficial y subterránea son insuficientes.
+
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%206.png?raw=true)
 
 Imagen 6: La distribución geográfica de la falta de agua a nivel mundial para la agricultura. ()
@@ -82,12 +88,14 @@ Los altos valores de estrés hídrico que presenta México, de no ser que se int
 
 Imagen 7: Impacto del estrés hídrico. (S&P Global Ratings)
 Frente a esta gran escasez hídrica, “el presupuesto federal de 2023 casi triplicó el fondeo para infraestructuras hídricas de $15,300 millones de pesos mexicanos (MXN) (unos US$800 millones) a MXN 44,500 millones (unos US$2,400 millones)” (S&P Global, 2023).
+
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Gr%C3%A1fico%201.png?raw=true)
 
 Gráfica 1: Presupuesto de agua de México del 2012 a 2023. (Secretaría de Hacienda y Crédito Público (SHCP PEF, 2012- 2023))
 
 **Estados Unidos:**
 Estados Unidos es el mayor productor agrícola en una gran gama de productos como soja, maíz, trigo, algodón, entre muchos otros, así como el principal exportador de estos mismos productos. Según el Departamento de Agricultura de Estados Unidos, este sector primario aporta entre un 5,4 % a 6 % del PBI anual y en el 2021 cerca de 21,1 millones de puestos de trabajo a tiempo completo o parcial estaban conectados con el sector agrícola y alimentario (Santander Trade, 2023).
+
 ![Valor de la producción agrícola en Estados Unidos entre 2015 y 2021](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%202.png?raw=true)
 
 Tabla 2: Valor de la producción agrícola en Estados Unidos entre 2015 y 2021 (en millones de dólares) (Statista, 2019.)
@@ -95,6 +103,7 @@ Tabla 2: Valor de la producción agrícola en Estados Unidos entre 2015 y 2021 (
 **Chile:**
 Frente a la crisis hídrica que pasaba Chile, la Comisión Nacional de Riego del país aportó 29 mil millones de pesos mediante el programa Pequeña Agricultura durante el 2018 a 2021. Además de ello, “ha bonificado proyectos por más de 206 mil millones de pesos que tienen como objeto apoyar la mejora en infraestructura hídrica a nivel intra y extrapredial de pequeños agricultores y sus organizaciones” (Alfredo, 2022).
 Además de ello, el Instituto de Desarrollo agropecuario busca promover el buen uso del agua en las zonas rurales y urbanas del país mediante programas como: Programa de Riego Asociativo (PRA), Programa de Riego Individual (PRI), Programa de Obras Menores de Riego (PROM) y Bono Legal del Agua (BLA).
+
 ![Presupuesto y cobertura que han tenido los programas.](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Cuadro%201.png?raw=true)
 
 Tabla 2: Presupuesto y cobertura que han tenido los programas. (Moreno, 2022).
@@ -102,11 +111,13 @@ Tabla 2: Presupuesto y cobertura que han tenido los programas. (Moreno, 2022).
 3. **Nacional**
 El desempeño del sector agropecuario peruano ha sido muy positivo durante los últimos años con un rendimiento bastante destacable específicamente en el área de las agroexportaciones. Se tenía pronosticado que para el 2023 el sector agropecuario del Perú logre mantener su ritmo de crecimiento anual del 4% en promedio como en los últimos 20 años (Vinelli, 2022).
 Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón Yaku, han llevado al sector agropecuario peruano a contraerse por primera vez en varios años. Esto se ve reflejado en la reducción del empleo en el sector agrícola del 20% afectando a 121,000 personas (Agronline, 2023).
+
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%208.png?raw=true)
 
 Imágen 8: Empleos que se han perdido en el sector exportador en el 2023. (Diario Gestión, 2023)
 Entre las principales metas que se plantea el sector para este año 2024 son la extensión del Seguro Agrícola Catastrófico (SAC) para proteger alrededor de 1.9 millones de hectáreas ante la presencia de eventos climáticos y el mejoramiento de los sistemas hídricos así como el eficiente aprovechamiento de estos recursos; estos 2 enfoques benefician de modo directo a 798,337 pequeños y medianos productores agropecuarios (Gob, 2023).
 Para lograr estas metas La Ministra de Desarrollo Agrario y Riego, Jennifer Contreras, declaró que el pliego presupuestal para el 2024 es de S/. 2,720 millones, de los cuales se destinarán S/. 502 millones para el programa de aprovechamiento de los recursos hídricos y S/. 234 millones de soles para la atención de emergencias (Contreras, 2023).
+
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%209.png?raw=true)
 
 Imágen 8: Ministra Jennifer Contreras sustento presupuesto 2023 de S/ 2.720 millones y recursos para inversiones en el agro. (Diario Gob.pe, 2023)
