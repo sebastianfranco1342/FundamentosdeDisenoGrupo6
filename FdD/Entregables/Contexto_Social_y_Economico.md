@@ -51,6 +51,7 @@ A nivel Nacional, el Perú sufre de escasez hídrica, principalmente por las seq
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%201.png?raw=true)
 
 Tabla 1: Características de las sequías en términos de intensidad y severidad. (SENAMHI, 2019).
+
 Además de ello, durante el mes de Septiembre en el 2023, se han registrado entre 20 a 30 días secos consecutivos en Cajamarca y Puno, este número resultó ser mayor al que el SENAMHI había establecido para esa temporada que era de 15 a 19 días.
 
 ![Días secos consecutivos en el mes de Septiembre del 2023](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%204.png?raw=true)
@@ -73,6 +74,7 @@ La “insuficiencia económica de agua para la agricultura” se interpreta como
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%205.png?raw=true)
 
 Imagen 5: Marco conceptual y alcance de los SAT agrícolas ()
+
 Solo el 77% de las áreas cultivadas globalmente son alimentadas por lluvia, mientras que el 23% son actualmente irrigadas. Dentro de los cultivos nutridos por la lluvia, solo el 24% no posee escasez de agua verde, contrario que con el 76%. Entre el 28–38% se indica la escasez de agua azul para el sector que dependen de la lluvia, siendo menor la escasez para las areas irrigadas que varían entre 11-16%. Esto representa áreas donde los recursos de agua superficial y subterránea son insuficientes.
 
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%206.png?raw=true)
@@ -87,6 +89,7 @@ Los altos valores de estrés hídrico que presenta México, de no ser que se int
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%207.png?raw=true)
 
 Imagen 7: Impacto del estrés hídrico. (S&P Global Ratings)
+
 Frente a esta gran escasez hídrica, “el presupuesto federal de 2023 casi triplicó el fondeo para infraestructuras hídricas de $15,300 millones de pesos mexicanos (MXN) (unos US$800 millones) a MXN 44,500 millones (unos US$2,400 millones)” (S&P Global, 2023).
 
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Gr%C3%A1fico%201.png?raw=true)
@@ -115,6 +118,7 @@ Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón 
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%208.png?raw=true)
 
 Imágen 8: Empleos que se han perdido en el sector exportador en el 2023. (Diario Gestión, 2023)
+
 Entre las principales metas que se plantea el sector para este año 2024 son la extensión del Seguro Agrícola Catastrófico (SAC) para proteger alrededor de 1.9 millones de hectáreas ante la presencia de eventos climáticos y el mejoramiento de los sistemas hídricos así como el eficiente aprovechamiento de estos recursos; estos 2 enfoques benefician de modo directo a 798,337 pequeños y medianos productores agropecuarios (Gob, 2023).
 Para lograr estas metas La Ministra de Desarrollo Agrario y Riego, Jennifer Contreras, declaró que el pliego presupuestal para el 2024 es de S/. 2,720 millones, de los cuales se destinarán S/. 502 millones para el programa de aprovechamiento de los recursos hídricos y S/. 234 millones de soles para la atención de emergencias (Contreras, 2023).
 
