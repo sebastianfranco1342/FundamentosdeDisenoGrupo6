@@ -15,7 +15,7 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 Nuestro objetivo durante este proyecto es identificar como los cambios de los niveles de humedad y temperatura afecta la producción de los cultivos del Perú".
 
 ## ODS
-El Objetivo de Desarrollo Sostenible (ODS) al que espira nuestro proyecto es el ODS 12.6
+El Objetivo de Desarrollo Sostenible (ODS) al que espira nuestro proyecto es el ODS 6
 ![ODS12](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ODS12.JPG)
 Fuente: (Almagra, 2019)
 
@@ -47,6 +47,6 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
  - Software: En esta carpeta se almacenará el código fuente, scripts, archivos de configuración, recursos multimedia, documentación técnica, pruebas automatizadas, y cualquier otro recurso relacionado con el desarrollo y la implementación del software puesto que es un lugar centralizado para todos los recursos y archivos necesarios para comprender, desarrollar y mantener el software del proyecto.
 
 ## Bibliografía:
-- Anónimo. (2019). Metas y Objetivos de la Agenda 2030: ODS12 Producción y Consumo Responsables. Almagra Cultura y Naturaleza. https://almagraculturaynaturaleza.blogspot.com/2019/03/metas-y-objetivos-de-la-agenda-2030_43.html
+- Anónimo. (2019). Metas y Objetivos de la Agenda 2030: ODS12 Producción y Consumo Responsables. Almagra Cultura y Naturaleza. https://3.bp.blogspot.com/-xd5DXGZhUyA/XI8p2DZL6dI/AAAAAAAAAM0/owS0vkpSZMIu_ZdOxUmSbI7SoqqKjDlOgCLcBGAs/s1600/ODS06.JPG
 
 
