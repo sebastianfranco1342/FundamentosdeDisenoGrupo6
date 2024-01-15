@@ -17,7 +17,7 @@ Nuestro objetivo durante este proyecto es identificar como los cambios de los ni
 ## ODS
 El Objetivo de Desarrollo Sostenible (ODS) al que espira nuestro proyecto es el ODS 12.6
 ![ODS12](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ODS12.JPG)
-Fuente: (Almagra Cultura y Naturaleza, 2019)
+Fuente: (Almagra, 2019)
 
 - El ODS 12 aspira modificar el modelo de producción y consumo actual con el fin de aprovechar adecuadamente y preservar los recursos naturales. [(Pacto Mundial, s.f.)](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Documentaci%C3%B3n/Bibliograf%C3%ADa.docx)
 - El ODS 12.6 motiva a las empresas a adoptar practicas sostenibles durante el ciclo de producción. [(Naciones Unidas, s.f.)](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Documentaci%C3%B3n/Bibliograf%C3%ADa.docx)
@@ -46,5 +46,7 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
  - Imágenes: Esta sección incluiremos imágenes relacionados al proyecto, así como los avances en cada entregable para evidenciar el avance progresivo del trabajo colaborativo, donde se incluirá la fecha y el entregable.
  - Software: En esta carpeta se almacenará el código fuente, scripts, archivos de configuración, recursos multimedia, documentación técnica, pruebas automatizadas, y cualquier otro recurso relacionado con el desarrollo y la implementación del software puesto que es un lugar centralizado para todos los recursos y archivos necesarios para comprender, desarrollar y mantener el software del proyecto.
 
+## Bibliografía:
+- Anónimo. (2019). Metas y Objetivos de la Agenda 2030: ODS12 Producción y Consumo Responsables. Almagra Cultura y Naturaleza. https://almagraculturaynaturaleza.blogspot.com/2019/03/metas-y-objetivos-de-la-agenda-2030_43.html
 
 
