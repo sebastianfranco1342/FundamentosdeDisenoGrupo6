@@ -8,6 +8,8 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
  - [Integrantes](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/README.md#integrantes)
  - [Rol del Integrante del equipo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/README.md#rol-de-cada-integrante-del-equipo)
  - [Carpetas de Gestión del Proyecto](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/README.md#carpetas-de-gesti%C3%B3n-del-proyecto)
+ - [Bibliografia](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/README.md#bibliograf%C3%ADa)
+
 
 
 ## Objetivo
