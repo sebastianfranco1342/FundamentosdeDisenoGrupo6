@@ -28,6 +28,9 @@ Las recurrentes sequías han hecho que disminuya la población en los campos y l
 **Brasil:**
 Las altas temperaturas que registra Brasil en los últimos años, la disminución del volumen de lluvias y fenómenos climáticos como La Niña, provocaron una intensa sequía que está afectando gravemente el sector agrícola de la nación. La sequía generó un retraso en las cosechas comprometiendo la siembra de nuevos cultivos. (Aprosoja, 2023)
 Según un informe de la Asociación de Productores de Maíz y Soja de Mato Grosso (Aprosoja, 2023), el calor y la sequía tienen un gran impacto en los cultivos de soja afectando su rendimiento y generando una caída de producción del 20%.
+![Sequía en Brasil](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_imagen10.jpg)
+
+Imagen 3: Mapa mostrando la sequía en Brasil mediante El Índice de Estrés por Evaporación (Evaporative Stress Index, ESI)
 
 **Chile:**
 Desde hace una década la zona central de Chile atraviesa una intensa sequía la cual obligó al Gobierno chileno a decretar “zona de emergencia agrícola” en el intento de solventar recursos a los agricultores. Sin embargo, se espera que las consecuencias que produzca la sequía perduren en el tiempo logrando un cambio histórico en la agricultura y ganadería chilenas. (Fundación Chile, 2021).
@@ -35,7 +38,7 @@ Según la ONG Fundación Chile (2021), el 76% de la superficie del país sufre u
 
 ![Laguna de Aculeo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%203.png?raw=true)
 
-Imágen 3: Laguna de Aculeo,centro de Chile, ejemplificación de las consecuencias de la sequía (Dirección General de Aguas, 2019).
+Imágen 4: Laguna de Aculeo,centro de Chile, ejemplificación de las consecuencias de la sequía (Dirección General de Aguas, 2019).
 
 3. **Nivel Nacional:**
 
@@ -49,7 +52,7 @@ Además de ello, durante el mes de Septiembre en el 2023, se han registrado entr
 
 ![Días secos consecutivos en el mes de Septiembre del 2023](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%204.png?raw=true)
 
-Imágen 4: Días secos consecutivos en el mes de Septiembre del 2023. (SENAMHI, 2023).
+Imágen 5: Días secos consecutivos en el mes de Septiembre del 2023. (SENAMHI, 2023).
 
 **Puno:**
 En Enero del 2023, Puno tuvo su mes más seco, esto se debe a la falta de lluvias durante la zona. Según el SENAMHI (2023), hubo el déficit de lluvias de la zona se encontraba entre -30% a -100% durante una periodo de 10 a 23 días. Este fenómeno ocasionó un gran déficit hídrico para la zona, ocasionando la descendencia de los niveles de agua del Lago Titicaca y el retraso de diversos cultivos (quinua, papa y avena) en su cosecha debido a su bajo desarrollo en condiciones secas.
@@ -67,13 +70,13 @@ La “insuficiencia económica de agua para la agricultura” se interpreta como
 
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%205.png?raw=true)
 
-Imagen 5: Marco conceptual y alcance de los SAT agrícolas ()
+Imagen 6: Marco conceptual y alcance de los SAT agrícolas ()
 
 Solo el 77% de las áreas cultivadas globalmente son alimentadas por lluvia, mientras que el 23% son actualmente irrigadas. Dentro de los cultivos nutridos por la lluvia, solo el 24% no posee escasez de agua verde, contrario que con el 76%. Entre el 28–38% se indica la escasez de agua azul para el sector que dependen de la lluvia, siendo menor la escasez para las areas irrigadas que varían entre 11-16%. Esto representa áreas donde los recursos de agua superficial y subterránea son insuficientes.
 
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%206.png?raw=true)
 
-Imagen 6: La distribución geográfica de la falta de agua a nivel mundial para la agricultura. ()
+Imagen 7: La distribución geográfica de la falta de agua a nivel mundial para la agricultura. ()
 
 Durante el periodo entre 1996-2005 se estudió 130 cultivos primarios para analizar la escasez de agua verde, azul y escasez económica. Se puede observar que grandes partes de África, Asia y América del Sur enfrentan problemas significativos de escasez de agua agrícola, mientras que partes del subcontinente indio, regiones del medio oriente y áreas de África sufren de escasez económica, se puede interpretar que hay suficiente agua físicamente disponible para la agricultura (tanto agua azul como verde), pero debido a limitaciones económicas o institucionales, esta agua no se puede utilizar eficazmente. 
 
@@ -84,7 +87,7 @@ Los altos valores de estrés hídrico que presenta México, de no ser que se int
 
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%207.png?raw=true)
 
-Imagen 7: Impacto del estrés hídrico. (S&P Global Ratings)
+Imagen 8: Impacto del estrés hídrico. (S&P Global Ratings)
 
 Frente a esta gran escasez hídrica, “el presupuesto federal de 2023 casi triplicó el fondeo para infraestructuras hídricas de $15,300 millones de pesos mexicanos (MXN) (unos US$800 millones) a MXN 44,500 millones (unos US$2,400 millones)” (S&P Global, 2023).
 
@@ -114,14 +117,14 @@ Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón 
 
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%208.png?raw=true)
 
-Imágen 8: Empleos que se han perdido en el sector exportador en el 2023. (Diario Gestión, 2023)
+Imágen 9: Empleos que se han perdido en el sector exportador en el 2023. (Diario Gestión, 2023)
 
 Entre las principales metas que se plantea el sector para este año 2024 son la extensión del Seguro Agrícola Catastrófico (SAC) para proteger alrededor de 1.9 millones de hectáreas ante la presencia de eventos climáticos y el mejoramiento de los sistemas hídricos así como el eficiente aprovechamiento de estos recursos; estos 2 enfoques benefician de modo directo a 798,337 pequeños y medianos productores agropecuarios (Gob, 2023).
 Para lograr estas metas La Ministra de Desarrollo Agrario y Riego, Jennifer Contreras, declaró que el pliego presupuestal para el 2024 es de S/. 2,720 millones, de los cuales se destinarán S/. 502 millones para el programa de aprovechamiento de los recursos hídricos y S/. 234 millones de soles para la atención de emergencias (Contreras, 2023).
 
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%209.png?raw=true)
 
-Imágen 8: Ministra Jennifer Contreras sustento presupuesto 2023 de S/ 2.720 millones y recursos para inversiones en el agro. (Diario Gob.pe, 2023)
+Imágen 10: Ministra Jennifer Contreras sustento presupuesto 2023 de S/ 2.720 millones y recursos para inversiones en el agro. (Diario Gob.pe, 2023)
 
 Fuentes:
 - Agronline. (2023, diciembre 26). Recuperación en el horizonte: Perspectivas del sector agrícola peruano para 2024.
