@@ -1,20 +1,10 @@
 ﻿## Contexto Social:
 1. **Nivel Mundial:**
-La escasez de agua afecta ya a todos los continentes. Cerca de 1.200 millones de personas, casi una quinta parte de la población mundial, vive en áreas de escasez física de agua, mientras que 500 millones se aproximan a esta situación. Otros 1.600 millones, alrededor de un cuarto de la población mundial, se enfrentan a situaciones de escasez económica de agua, donde los países carecen de la infraestructura necesaria para transportar el agua desde ríos y acuíferos. (Decenio Internacional para la Acción «El agua, fuente de vida» 2005-2015. Áreas temáticas, s. f.)
-Un nuevo informe del Banco Mundial encuentra que la escasez de agua, exacerbada por el cambio climático, podría obstaculizar el crecimiento económico, estimular la migración y provocar conflictos. Sin embargo, la mayoría de los países pueden neutralizar los impactos adversos de la escasez de agua tomando medidas para asignar y utilizar los recursos hídricos de manera más eficiente. (High and Dry, s. f.)
-“La crisis mundial del agua no está simplemente por llegar, ya está aquí, y el cambio climático no hará más que empeorar”, dijo la Directora Ejecutiva de UNICEF, Henrietta Fore. “Los niños son las mayores víctimas. Cuando los pozos se secan, los niños son los que faltan a la escuela para ir a buscar agua. Cuando las sequías disminuyen el suministro de alimentos, los niños sufren desnutrición y retraso en el crecimiento. Cuando hay inundaciones, los niños contraen enfermedades transmitidas por el agua. Y cuando los recursos hídricos disminuyen, los niños no pueden lavarse las manos para combatir las enfermedades”. (UNICEF, s. f.)
+La deficiencia hídrica es un problema social que afecta a la mayoría de las personas a nivel mundial. Sin embargo, debido a diversos factores como el aumento demográfico, la mala gestión de los recursos hídricos y el aumento progresivo de las temperaturas, hace que cada vez haya menos agua disponible en  nuestro planeta.
+La escasez de agua afecta ya a todos los continentes. Cerca de 1.200 millones de personas, casi una quinta parte de la población mundial, vive en áreas de escasez física de agua. Alrededor de un cuarto de la población mundial, es decir 1.600 millones de personas, se enfrentan a situaciones de escasez económica de agua, donde los países carecen de la infraestructura necesaria para transportar el agua desde ríos y acuíferos.(ONU, 2011)
+Un nuevo informe del Banco Mundial indica que el déficit hídrico, exacerbado por el cambio climático, obstaculiza el crecimiento económico, provoca conflictos y estimula la migración. Sin embargo, la mayoría de los países pueden contribuir a minimizar los impactos negativos de la escasez de agua tomando medidas para asignar y utilizar los recursos hídricos de manera sostenible. (High and Dry, s. f.)
 
- **DATOS Y CIFRAS IMPORTANTES A NIVEL MUNDIAL:**
-
--   2 200 millones de personas carecen de acceso a servicios de agua potable gestionados de forma segura. (OMS/UNICEF 2019).
--   Casi 2 000 millones de personas dependen de centros de atención de la salud que carecen de servicios básicos de agua (OMS/UNICEF 2020)
--   Más de la mitad de la población – 4 200 millones de personas - carecen de servicios de saneamiento gestionados de forma segura (WHO/UNICEF 2019).
--   297 000 niños menores de cinco años mueren cada año debido a enfermedades diarreicas causadas por las malas condiciones sanitarias o agua no potable (OMS/UNICEF 2019).
--   2 000 millones de personas viven en países que sufren escasez de agua (UN 2019).
--   El 90% de los desastres naturales están relacionados con el agua (UNISDR).
--   El 80% de las aguas residuales retornan al ecosistema sin ser tratadas o reutilizadas (UNESCO, 2017).   
--   Alrededor de dos tercios de los ríos transfronterizos del mundo no tienen un marco de gestión cooperativa (SIWI).
--   La agricultura representa el 70% de la extracción mundial de agua (FAO).
+“La crisis mundial del agua no está simplemente por llegar, ya está aquí, y el cambio climático no hará más que empeorar”, dijo la Directora Ejecutiva de UNICEF, Henrietta Fore. Puesto que esta combinación de factores es una de las principales causas de tasa de mortalidad entre menores de cinco años por enfermedades prevenibles, detalla en el informe de la UNICEF.  Las estadísticas indican que para el 2050, 35 millones más de niños estarán expuestos a niveles elevados o muy elevados de deficiencia hídrica según indicó el reporte generado por la ONU. 
 
 ![El estrés Hídrico en el mundo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%201.png?raw=true)
 
