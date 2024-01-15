@@ -1,5 +1,6 @@
 ﻿## Contexto Social:
 1. **Nivel Mundial:**
+
 La deficiencia hídrica es un problema social que afecta a la mayoría de las personas a nivel mundial. Sin embargo, debido a diversos factores como el aumento demográfico, la mala gestión de los recursos hídricos y el aumento progresivo de las temperaturas, hace que cada vez haya menos agua disponible en  nuestro planeta.
 La escasez de agua afecta ya a todos los continentes. Cerca de 1.200 millones de personas, casi una quinta parte de la población mundial, vive en áreas de escasez física de agua. Alrededor de un cuarto de la población mundial, es decir 1.600 millones de personas, se enfrentan a situaciones de escasez económica de agua, donde los países carecen de la infraestructura necesaria para transportar el agua desde ríos y acuíferos.(ONU, 2011)
 Un nuevo informe del Banco Mundial indica que el déficit hídrico, exacerbado por el cambio climático, obstaculiza el crecimiento económico, provoca conflictos y estimula la migración. Sin embargo, la mayoría de los países pueden contribuir a minimizar los impactos negativos de la escasez de agua tomando medidas para asignar y utilizar los recursos hídricos de manera sostenible. (High and Dry, s. f.)
@@ -11,6 +12,7 @@ Un nuevo informe del Banco Mundial indica que el déficit hídrico, exacerbado p
 Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
 
 2. **Nivel Regional**
+
 **Estados Unidos:**
 En el año 2023, el fenómeno climático La Niña produjo una feroz sequía que afectó a diversos agricultores de importantes sembríos de trigo en Estados Unidos quienes llegaron al punto de casi abandonar sus cultivos. (USDA, 2023). Según el Departamento de agricultura de los Estados Unidos, se espera que los productores cosechen solo el 67% de sus plantaciones, lo cual sería la tasa de cosecha más baja desde 1917 (USDA, 2023)
 
@@ -36,6 +38,7 @@ Según la ONG Fundación Chile (2021), el 76% de la superficie del país sufre u
 Imágen 3: Laguna de Aculeo,centro de Chile, ejemplificación de las consecuencias de la sequía (Dirección General de Aguas, 2019).
 
 3. **Nivel Nacional:**
+
 A nivel Nacional, el Perú sufre de escasez hídrica, principalmente por las sequías, a lo largo de cada año. Según el SENAMHI (2019), entre 1982 a 2018 hubo 19 años en los que varios de los distritos del Perú han sufrido episodios de sequías. Entre los años que han afectado a la mayor cantidad de distritos han sido 1990, 1992 y 2004 que han afectado a 19, 16 y 10 distritos respectivamente.
 
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%201.png?raw=true)
@@ -58,6 +61,7 @@ El SENAMHI pronosticó que existiría una escasez de lluvias durante el 2022 al 
 ## Contexto Económico:
 
 1. **Nivel Mundial:**
+
 La escasez de agua es una preocupación importante para el futuro sostenible de la humanidad y la conservación de los ecosistemas. La escasez de agua puede ser física, donde hay una falta real de agua, o económica, donde el agua está disponible pero no se puede utilizar debido a limitaciones económicas o institucionales.
 La “insuficiencia económica de agua para la agricultura” se interpreta como la ausencia de riego debido a restricciones institucionales y financieras, en lugar de limitaciones de agua. Hasta ahora, no se sabe dónde se encuentran las áreas de cultivo que sufren de falta de agua desde una perspectiva económica ni cuál es su potencial productivo. Se ha realizado un estudio agro hidrológico mensual para identificar las áreas agrícolas afectadas por la falta económica de agua, descubriendo que estas áreas representan hasta el 25% de las tierras de cultivo globales, principalmente en África subsahariana, Europa oriental y Asia central. El riego sostenible de las tierras de cultivo que sufren de escasez económica de agua podría proporcionar alimentos a 840 millones de personas adicionales y, al mismo tiempo, prevenir un empeoramiento de la escasez de agua dulce.
 
@@ -102,6 +106,7 @@ Además de ello, el Instituto de Desarrollo agropecuario busca promover el buen 
 Tabla 2: Presupuesto y cobertura que han tenido los programas. (Moreno, 2022).
 
 3. **Nacional**
+
 El desempeño del sector agropecuario peruano ha sido muy positivo durante los últimos años con un rendimiento bastante destacable específicamente en el área de las agroexportaciones. Se tenía pronosticado que para el 2023 el sector agropecuario del Perú logre mantener su ritmo de crecimiento anual del 4% en promedio como en los últimos 20 años (Vinelli, 2022).
 Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón Yaku, han llevado al sector agropecuario peruano a contraerse por primera vez en varios años. Esto se ve reflejado en la reducción del empleo en el sector agrícola del 20% afectando a 121,000 personas (Agronline, 2023).
 
