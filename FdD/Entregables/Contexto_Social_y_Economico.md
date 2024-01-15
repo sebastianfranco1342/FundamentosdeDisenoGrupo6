@@ -96,15 +96,17 @@ Frente a esta gran escasez hídrica, “el presupuesto federal de 2023 casi trip
 Gráfica 1: Presupuesto de agua de México del 2012 a 2023. (Secretaría de Hacienda y Crédito Público (SHCP PEF, 2012- 2023))
 
 **Estados Unidos:**
-Estados Unidos es el mayor productor agrícola en una gran gama de productos como soja, maíz, trigo, algodón, entre muchos otros, así como el principal exportador de estos mismos productos. Según el Departamento de Agricultura de Estados Unidos, este sector primario aporta entre un 5,4 % a 6 % del PBI anual y en el 2021 cerca de 21,1 millones de puestos de trabajo a tiempo completo o parcial estaban conectados con el sector agrícola y alimentario (Santander Trade, 2023).
+Estados Unidos es el mayor productor agrícola en una gran gama de productos como soja, maíz, trigo, algodón, entre muchos otros, así como el principal exportador de estos mismos productos. Acorde al Departamento de Agricultura de Estados Unidos, este sector primario aporta entre un 5,4 % a 6 % del PBI anual y en el 2021 cerca de 21,1 millones de puestos de trabajo a tiempo completo o parcial estaban conectados con el sector agrícola y alimentario (Santander Trade, 2023).
 
 ![Valor de la producción agrícola en Estados Unidos entre 2015 y 2021](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%202.png?raw=true)
 
 Tabla 2: Valor de la producción agrícola en Estados Unidos entre 2015 y 2021 (en millones de dólares) (Statista, 2019.)
 
 **Chile:**
-Frente a la crisis hídrica que pasaba Chile, la Comisión Nacional de Riego del país aportó 29 mil millones de pesos mediante el programa Pequeña Agricultura durante el 2018 a 2021. Además de ello, “ha bonificado proyectos por más de 206 mil millones de pesos que tienen como objeto apoyar la mejora en infraestructura hídrica a nivel intra y extrapredial de pequeños agricultores y sus organizaciones” (Alfredo, 2022).
-Además de ello, el Instituto de Desarrollo agropecuario busca promover el buen uso del agua en las zonas rurales y urbanas del país mediante programas como: Programa de Riego Asociativo (PRA), Programa de Riego Individual (PRI), Programa de Obras Menores de Riego (PROM) y Bono Legal del Agua (BLA).
+Frente a la crisis hídrica que pasaba Chile, la Comisión Nacional de Riego del país aportó 29 mil millones de pesos mediante diversos programas de ayuda durante el 2018 a 2021. Además de ello, “ha bonificado proyectos por más de 206 mil millones de pesos que tienen como objeto apoyar la mejora en infraestructura hídrica a nivel intra y extrapredial de pequeños agricultores y sus organizaciones” (Alfredo, 2022).
+
+Por otro lado, el Instituto de Desarrollo Agropecuario promueve el buen uso del agua en las zonas rurales y urbanas del país mediante programas como: Programa de Riego Asociativo (PRA), Programa de Riego Individual (PRI), Programa de Obras Menores de Riego (PROM) y Bono Legal del Agua (BLA).
+
 
 ![Presupuesto y cobertura que han tenido los programas.](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Cuadro%201.png?raw=true)
 
@@ -113,14 +115,15 @@ Tabla 2: Presupuesto y cobertura que han tenido los programas. (Moreno, 2022).
 3. **Nacional**
 
 El desempeño del sector agropecuario peruano ha sido muy positivo durante los últimos años con un rendimiento bastante destacable específicamente en el área de las agroexportaciones. Se tenía pronosticado que para el 2023 el sector agropecuario del Perú logre mantener su ritmo de crecimiento anual del 4% en promedio como en los últimos 20 años (Vinelli, 2022).
-Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón Yaku, han llevado al sector agropecuario peruano a contraerse por primera vez en varios años. Esto se ve reflejado en la reducción del empleo en el sector agrícola del 20% afectando a 121,000 personas (Agronline, 2023).
+Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón Yaku, han llevado al sector agropecuario peruano a contraerse por primera vez en varios años. Esto se ve reflejado en la reducción del empleo en el sector agrícola del 20%  afectando a 121,000 personas (Agronline, 2023).
 
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%208.png?raw=true)
 
 Imágen 9: Empleos que se han perdido en el sector exportador en el 2023. (Diario Gestión, 2023)
 
-Entre las principales metas que se plantea el sector para este año 2024 son la extensión del Seguro Agrícola Catastrófico (SAC) para proteger alrededor de 1.9 millones de hectáreas ante la presencia de eventos climáticos y el mejoramiento de los sistemas hídricos así como el eficiente aprovechamiento de estos recursos; estos 2 enfoques benefician de modo directo a 798,337 pequeños y medianos productores agropecuarios (Gob, 2023).
-Para lograr estas metas La Ministra de Desarrollo Agrario y Riego, Jennifer Contreras, declaró que el pliego presupuestal para el 2024 es de S/. 2,720 millones, de los cuales se destinarán S/. 502 millones para el programa de aprovechamiento de los recursos hídricos y S/. 234 millones de soles para la atención de emergencias (Contreras, 2023).
+Entre las principales metas que se plantea el sector para este año 2024 son la extensión del Seguro Agrícola Catastrófico (SAC) para proteger alrededor de 2 millones de hectáreas que enfrentan la posible presencia de eventos climáticos y el mejoramiento de los sistemas hídricos así como el eficiente aprovechamiento de estos recursos; estos 2 enfoques benefician de modo directo a 798,337 pequeños y medianos productores agropecuarios (Gob, 2023).
+
+Para lograr estas metas La Ministra de Desarrollo Agrario y Riego, Jennifer Contreras, declaró que el pliego presupuestal para el 2024 es de S/.  2,720 millones, de los cuales se destinarán  S/. 502 millones para el programa de aprovechamiento de los recursos hídricos y S/. 234 millones de soles para la atención de emergencias (Contreras, 2023).
 
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%209.png?raw=true)
 
