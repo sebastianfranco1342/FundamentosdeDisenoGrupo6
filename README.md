@@ -14,7 +14,7 @@ Bienvenidos al repositorio del Grupo 6 del curso "Fundamentos de Diseño"
 
 ## Objetivo
 
-Nuestro objetivo durante este proyecto es identificar como los cambios de los niveles de humedad y temperatura afecta la producción de los cultivos del Perú".
+Nuestro objetivo durante este proyecto es identificar cómo la insuficiencia hídrica afecta la producción de los cultivos del Perú".
 
 ## ODS
 El Objetivo de Desarrollo Sostenible (ODS) al que espira nuestro proyecto es el ODS 6
