@@ -75,6 +75,8 @@ Solo el 77% de las áreas cultivadas globalmente son alimentadas por lluvia, mie
 
 Imagen 6: La distribución geográfica de la falta de agua a nivel mundial para la agricultura. ()
 
+Durante el periodo entre 1996-2005 se estudió 130 cultivos primarios para analizar la escasez de agua verde, azul y escasez económica. Se puede observar que grandes partes de África, Asia y América del Sur enfrentan problemas significativos de escasez de agua agrícola, mientras que partes del subcontinente indio, regiones del medio oriente y áreas de África sufren de escasez económica, se puede interpretar que hay suficiente agua físicamente disponible para la agricultura (tanto agua azul como verde), pero debido a limitaciones económicas o institucionales, esta agua no se puede utilizar eficazmente. 
+
 2. **Nivel Regional**
 
 **México:**
