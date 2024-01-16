@@ -49,7 +49,7 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
  - **Software:** En esta carpeta se almacenará el código fuente, scripts, archivos de configuración, recursos multimedia, documentación técnica, pruebas automatizadas, y cualquier otro recurso relacionado con el desarrollo y la implementación del software puesto que es un lugar centralizado para todos los recursos y archivos necesarios para comprender, desarrollar y mantener el software del proyecto.
 
 ## Bibliografía:
-- Anónimo. (2019). Metas y Objetivos de la Agenda 2030: ODS12 Producción y Consumo Responsables. Almagra Cultura y Naturaleza. https://3.bp.blogspot.com/-xd5DXGZhUyA/XI8p2DZL6dI/AAAAAAAAAM0/owS0vkpSZMIu_ZdOxUmSbI7SoqqKjDlOgCLcBGAs/s1600/ODS06.JPG
+- Anónimo. (2019). Metas y Objetivos de la Agenda 2030: ODS12 Producción y Consumo Responsables. *Almagra Cultura y Naturaleza*. https://3.bp.blogspot.com/-xd5DXGZhUyA/XI8p2DZL6dI/AAAAAAAAAM0/owS0vkpSZMIu_ZdOxUmSbI7SoqqKjDlOgCLcBGAs/s1600/ODS06.JPG
 - Organización de las Naciones Unidas [ONU]. (2023). Informe de los Objetivos de Desarrollo Sostenible: Edición especial. https://unstats.un.org/sdgs/report/2023/The-Sustainable-Development-Goals-Report-2023_Spanish.pdf?_gl=1*wyx6xp*_ga*MjEyMzM1Mjk0Mi4xNzA1MDI1MjEw*_ga_TK9BQL5X7Z*MTcwNTI5MDY0OS40LjEuMTcwNTI5MjM5My4wLjAuMA
 
 
