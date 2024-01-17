@@ -32,10 +32,6 @@ En México, la última sequía del 2022 puso en riesgo a todo el país, ya que i
 **Brasil:**
 Las altas temperaturas que registra Brasil en los últimos años, junto con la disminución del volumen de lluvias y fenómenos climáticos como La Niña, han provocado una intensa sequía que afecta gravemente el sector agrícola de la nación y genera un retraso en las cosechas, comprometiendo la siembra de nuevos cultivos. Según un informe de la Asociación de Productores de Maíz y Soja de Mato Grosso, el calor y la sequía tienen un gran impacto en los cultivos de soja, afectando su rendimiento y generando una caída de producción del 20% (Aprosoja, 2023).
 
-![Sequía en Brasil](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_imagen10.jpg)
-
-Imagen 3: Mapa mostrando la sequía en Brasil mediante El Índice de Estrés por Evaporación (Evaporative Stress Index, ESI)
-
 **Chile:**
 Desde hace una década la zona central de Chile atraviesa una intensa sequía la cual obligó al Gobierno chileno a decretar “zona de emergencia agrícola” en el intento de solventar recursos a los agricultores. Según la ONG Fundación Chile, el 76% de la superficie del país sufre una sequía severa posicionando a Chile en una situación grave en cuanto a disponibilidad de agua para consumo y suministro (Fundación Chile, 2021).
 
