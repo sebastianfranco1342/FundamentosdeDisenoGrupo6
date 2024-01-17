@@ -7,9 +7,10 @@ Un nuevo informe del Banco Mundial indica que el déficit hídrico, exacerbado p
 
 “La crisis mundial del agua no está simplemente por llegar, ya está aquí, y el cambio climático no hará más que empeorar”, dijo la Directora Ejecutiva de UNICEF, Henrietta Fore. Puesto que esta combinación de factores es una de las principales causas de tasa de mortalidad entre menores de cinco años por enfermedades prevenibles, detalla en el informe de la UNICEF.  Las estadísticas indican que para el 2050, 35 millones más de niños estarán expuestos a niveles elevados o muy elevados de deficiencia hídrica según indicó el reporte generado por la ONU. 
 
+Imágen 1: El estrés hidrico en el mundo 
 ![El estrés Hídrico en el mundo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%201.png?raw=true)
 
-Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
+Fuente: *Merino, 2023*
 
 2. **Nivel Regional**
 
@@ -36,17 +37,20 @@ Las altas temperaturas que registra Brasil en los últimos años, junto con la d
 **Chile:**
 Desde hace una década la zona central de Chile atraviesa una intensa sequía la cual obligó al Gobierno chileno a decretar “zona de emergencia agrícola” en el intento de solventar recursos a los agricultores. Según la ONG Fundación Chile, el 76% de la superficie del país sufre una sequía severa posicionando a Chile en una situación grave en cuanto a disponibilidad de agua para consumo y suministro (Fundación Chile, 2021).
 
+Imágen 4: Laguna de Aculeo,centro de Chile, ejemplificación de las consecuencias de la sequía
 ![Laguna de Aculeo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%203.png?raw=true)
 
-Imágen 4: Laguna de Aculeo,centro de Chile, ejemplificación de las consecuencias de la sequía (Dirección General de Aguas, 2019).
+Fuente: *Dirección General de Aguas, 2019*
 
 3. **Nivel Nacional:**
 
 A nivel Nacional, el Perú sufre de escasez hídrica, principalmente por las sequías, a lo largo de cada año. Según el SENAMHI (2019), entre 1982 a 2018 hubo 19 años en los que varios de los distritos del Perú han sufrido episodios de sequías. Entre los años que han afectado a la mayor cantidad de distritos han sido 1990, 1992 y 2004 que han afectado a 19, 16 y 10 distritos respectivamente.
 
+
+Tabla 1: Características de las sequías en términos de intensidad y severidad
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%201.png?raw=true)
 
-Tabla 1: Características de las sequías en términos de intensidad y severidad. (SENAMHI, 2019).
+Fuente: *SENAMHI, 2019*
 
 Además de ello, durante el mes de Septiembre en el 2023, se han registrado entre 20 a 30 días secos consecutivos en Cajamarca y Puno, este número resultó ser mayor al que el SENAMHI había establecido para esa temporada que era de 15 a 19 días.
 
