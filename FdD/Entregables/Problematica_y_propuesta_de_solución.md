@@ -31,6 +31,17 @@ El Senamhi para los meses de enero, febrero y marzo del 2024 predice, a través 
 
 Imagen 4: Probabilidad de Ocurrencia de lluvia (%) para el trimestre enero - marzo de 2024 (Senamhi, 2023)
 
+## Propuesta de solución
+
+Una posible solución a la problemática propuesta sería la implementación de sensores climatológicos que detecten cambios en las precipitaciones así como en los niveles de humedad de la zona monitoreada. Este enfoque permitiría obtener información en tiempo real sobre las condiciones climáticas, de esta manera, cuando se identifiquen cambios de tendencia negativos en cualquiera de las distintas variables monitoreando, los agricultores sabrán que se avecina una época de escasez de lluvias y actuará con anticipación ante este problema.
+
+Ventajas de la solución:
+- Alerta temprana
+- Información para toma de decisiones según datos precisos (optimización de sistemas de riego)
+- Adaptabilidad a distintas condiciones climatológicas (sensores)
+- Prevención de riesgos o daños por cambios climáticos.
+- Permite controlar las condiciones medioambientales con mayor eficacia.
+
 ## Referencias Bibliográficas:
 
 CENEPRED. (2021). ESCENARIO DE RIESGO POR SEQUÍAS METEOROLÓGICAS PARA EL SUBSECTOR AGRÍCOLA DEL DEPARTAMENTO DE PUNO. [https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//11611_escenario-de-riesgo-por-sequias-meteorologicas-para-el-subsector-agricola-del-departamento-de-puno.pdf](https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//11611_escenario-de-riesgo-por-sequias-meteorologicas-para-el-subsector-agricola-del-departamento-de-puno.pdf)
