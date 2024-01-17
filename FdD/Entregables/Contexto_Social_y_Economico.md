@@ -92,8 +92,10 @@ Durante el periodo entre 1996-2005 se estudió 130 cultivos primarios para anali
 **México:**
 Los altos valores de estrés hídrico que presenta México, de no ser que se intervengan de manera rápida, ocasionará que los estados que presenta alta escasez hídrica, como el Bajío, tengan su economía detenida puesto que ellos han de tener que financiar múltiples gastos para que se de una mejor organización con respecto al agua.
 
+
 Imagen 8: Impacto del estrés hídrico
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%207.png?raw=true)
+
 
 Fuente: *S&P Global Ratings*
 
