@@ -94,6 +94,8 @@ Los altos valores de estrés hídrico que presenta México, de no ser que se int
 
 
 Imagen 8: Impacto del estrés hídrico
+
+
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%207.png?raw=true)
 
 
