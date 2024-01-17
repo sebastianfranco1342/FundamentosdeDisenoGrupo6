@@ -11,7 +11,7 @@ Imágen 1. Susceptibilidad a sequías severas (CENEPRED, 2021).
 
 Imágen 2. Población dedicada a la actividad agropecuaria a nivel distrital (CENEPRED, 2021).
 
-La magnitud de esta problemática se intensifica al considerar que una parte considerable del territorio en Puno se destina a la agricultura y que las comunidades más extensas son las más propensas a sequías severas, aumentando el impacto negativo en las actividades agrícolas.
+La magnitud de esta problemática se intensifica al considerar que una parte considerable del territorio en Puno se destina a la agricultura y que las comunidades más extensas son las más propensas a sequías severas, aumentando el impacto negativo de este fenomeno en las actividades.
 
 Entre los cultivos afectados por las sequías se encuentran en Puno se tiene la papa y la quinua que según el SENAMHI (2021), en el periodo del 2015 al 2016, se sufrieron pérdidas completas de la papa y de la quinua en un 8.93% y 1.31% de todo cultivo registrado en este periodo de tiempo.
 
