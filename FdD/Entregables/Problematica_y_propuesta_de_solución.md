@@ -2,6 +2,7 @@
 La problemática que hemos identificado es la falta de métodos eficientes de obtener agua dentro de las comunidades en Puno impide el avance de la agricultura en la zona.
 
 La falta de agua en las comunidades de Puno representa un desafío crucial que impacta directamente en la sostenibilidad de la agricultura y, por ende, en el crecimiento de las comunidades dedicadas a ello. En este contexto, la escasez de lluvias en el departamento se ha convertido en un desafío significativo que no solo limita el acceso al agua para riego, sino que también amenaza el normal desarrollo de las actividades agrícolas en la región.
+
 ![Imag 1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Problematica_Im%C3%A1gen1.png?raw=true)
 
 Imágen 1. Susceptibilidad a sequías severas (CENEPRED, 2021).
@@ -13,6 +14,7 @@ Imágen 2. Población dedicada a la actividad agropecuaria a nivel distrital (CE
 La magnitud de esta problemática se intensifica al considerar que una parte considerable del territorio en Puno se destina a la agricultura y que las comunidades más extensas son las más propensas a sequías severas, aumentando el impacto negativo en las actividades agrícolas.
 
 Entre los cultivos afectados por las sequías se encuentran en Puno se tiene la papa y la quinua que según el SENAMHI (2021), en el periodo del 2015 al 2016, se sufrieron pérdidas completas de la papa y de la quinua en un 8.93% y 1.31% de todo cultivo registrado en este periodo de tiempo.
+
 ![Tabla 1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Problematica_Tabla.png?raw=true)
 
 Tabla 1. Cuantificación porcentual de la intensidad de la sequía agrícola con valor menor a 50 WRSI en la papa (derecha) y la quinua (izquierda) (SENAMHI, 2021).
