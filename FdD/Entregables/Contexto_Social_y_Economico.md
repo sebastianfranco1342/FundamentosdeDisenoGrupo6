@@ -19,9 +19,10 @@ Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
 **Estados Unidos:**
 En el año 2023, el fenómeno climático La Niña produjo una feroz sequía que afectó a diversos agricultores de importantes sembríos de trigo en Estados Unidos, quienes llegaron al punto de casi abandonar sus cultivos. Referente a ello, el Departamento de Agricultura de los Estados Unidos (USDA) declaró en un informe que, para el año 2023, se espera que los productores cosechen solo el 67% de sus plantaciones, lo cual sería la tasa de cosecha más baja desde 1917 (USDA, 2023).
 
+Imágen 2: Mapa del monitor de sequía en América del Norte para julio del 2022
 ![Monitor de Sequía de América del Norte](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen2.png)
 
-Imágen 2: Mapa del monitor de sequía en América del Norte para julio del 2022 (CONAGUA, 2022).
+Fuente: *CONAGUA, 2022*
 
 **México:**
 En México, la última sequía del 2022 puso en riesgo a todo el país, ya que impactó a más del 60% del territorio nacional, provocando pérdidas incalculables en la agricultura, especialmente en cultivos de trigo, frijol y maíz. Las recurrentes sequías han llevado a una disminución de la población en los campos y han hecho que los agricultores cambien de ocupación. Por ejemplo, entre 1983 y 1988, se produjo un abandono del 9% y 12% de los agricultores (Sánchez, K. et al., 2023).
