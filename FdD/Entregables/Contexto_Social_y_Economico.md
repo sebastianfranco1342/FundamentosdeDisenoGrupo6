@@ -13,28 +13,27 @@ Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
 
 2. **Nivel Regional**
 
+**En América del Norte**
 **Estados Unidos:**
-En el año 2023, el fenómeno climático La Niña produjo una feroz sequía que afectó a diversos agricultores de importantes sembríos de trigo en Estados Unidos quienes llegaron al punto de casi abandonar sus cultivos. (USDA, 2023). Según el Departamento de agricultura de los Estados Unidos, se espera que los productores cosechen solo el 67% de sus plantaciones, lo cual sería la tasa de cosecha más baja desde 1917 (USDA, 2023)
+En el año 2023, el fenómeno climático La Niña produjo una feroz sequía que afectó a diversos agricultores de importantes sembríos de trigo en Estados Unidos, quienes llegaron al punto de casi abandonar sus cultivos. Referente a ello, el Departamento de Agricultura de los Estados Unidos (USDA) declaró en un informe que, para el año 2023, se espera que los productores cosechen solo el 67% de sus plantaciones, lo cual sería la tasa de cosecha más baja desde 1917 (USDA, 2023).
 
 ![Monitor de Sequía de América del Norte](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%202.png?raw=true)
 
 Imágen 2: Mapa del monitor de sequía en América del Norte para julio del 2022 (CONAGUA, 2022).
 
 **México:**
-En las últimas décadas, la sequía se convirtió en un fenómeno recurrente en diversos estados del territorio mexicano, el cual ha llegado a afectar drásticamente a producciones agrícolas, sector ganadero y población en general.
-La última sequía del 2022 puso en riesgo a todo el país puesto que impactó a más del 60% del territorio nacional provocando pérdidas incalculables en la agricultura, especialmente en cultivos de trigo, frijol y maíz. (Sanchez, Karla et al., 2023)
-Las recurrentes sequías han hecho que disminuya la población en los campos y los agricultores cambien de ocupación. Por ejemplo, durante 1983 y 1988 se produjo un abandono del 9 % y 12 % de agricultores. (Sanchez, K. et al, 2023)
+En México, la última sequía del 2022 puso en riesgo a todo el país, ya que impactó a más del 60% del territorio nacional, provocando pérdidas incalculables en la agricultura, especialmente en cultivos de trigo, frijol y maíz. Las recurrentes sequías han llevado a una disminución de la población en los campos y han hecho que los agricultores cambien de ocupación. Por ejemplo, entre 1983 y 1988, se produjo un abandono del 9% y 12% de los agricultores (Sánchez, K. et al., 2023).
 
+**En América del Sur**
 **Brasil:**
-Las altas temperaturas que registra Brasil en los últimos años, la disminución del volumen de lluvias y fenómenos climáticos como La Niña, provocaron una intensa sequía que está afectando gravemente el sector agrícola de la nación. La sequía generó un retraso en las cosechas comprometiendo la siembra de nuevos cultivos. (Aprosoja, 2023)
-Según un informe de la Asociación de Productores de Maíz y Soja de Mato Grosso (Aprosoja, 2023), el calor y la sequía tienen un gran impacto en los cultivos de soja afectando su rendimiento y generando una caída de producción del 20%.
+Las altas temperaturas que registra Brasil en los últimos años, junto con la disminución del volumen de lluvias y fenómenos climáticos como La Niña, han provocado una intensa sequía que afecta gravemente el sector agrícola de la nación y genera un retraso en las cosechas, comprometiendo la siembra de nuevos cultivos. Según un informe de la Asociación de Productores de Maíz y Soja de Mato Grosso, el calor y la sequía tienen un gran impacto en los cultivos de soja, afectando su rendimiento y generando una caída de producción del 20% (Aprosoja, 2023).
+
 ![Sequía en Brasil](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_imagen10.jpg)
 
 Imagen 3: Mapa mostrando la sequía en Brasil mediante El Índice de Estrés por Evaporación (Evaporative Stress Index, ESI)
 
 **Chile:**
-Desde hace una década la zona central de Chile atraviesa una intensa sequía la cual obligó al Gobierno chileno a decretar “zona de emergencia agrícola” en el intento de solventar recursos a los agricultores. Sin embargo, se espera que las consecuencias que produzca la sequía perduren en el tiempo logrando un cambio histórico en la agricultura y ganadería chilenas. (Fundación Chile, 2021).
-Según la ONG Fundación Chile (2021), el 76% de la superficie del país sufre una sequía severa posicionando a Chile en una situación grave en cuanto a disponibilidad de agua para consumo y para suministro a distintos sectores como agricultura y ganadería.
+Desde hace una década la zona central de Chile atraviesa una intensa sequía la cual obligó al Gobierno chileno a decretar “zona de emergencia agrícola” en el intento de solventar recursos a los agricultores. Según la ONG Fundación Chile, el 76% de la superficie del país sufre una sequía severa posicionando a Chile en una situación grave en cuanto a disponibilidad de agua para consumo y suministro (Fundación Chile, 2021).
 
 ![Laguna de Aculeo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%203.png?raw=true)
 
