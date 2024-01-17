@@ -30,3 +30,13 @@ El Senamhi para los meses de enero, febrero y marzo del 2024 predice, a través 
 ![Imag 4](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Problematica_Im%C3%A1gen4.png?raw=true)
 
 Imagen 4: Probabilidad de Ocurrencia de lluvia (%) para el trimestre enero - marzo de 2024 (Senamhi, 2023)
+
+## Referencias Bibliográficas:
+
+CENEPRED. (2021). ESCENARIO DE RIESGO POR SEQUÍAS METEOROLÓGICAS PARA EL SUBSECTOR AGRÍCOLA DEL DEPARTAMENTO DE PUNO. [https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//11611_escenario-de-riesgo-por-sequias-meteorologicas-para-el-subsector-agricola-del-departamento-de-puno.pdf](https://sigrid.cenepred.gob.pe/sigridv3/storage/biblioteca//11611_escenario-de-riesgo-por-sequias-meteorologicas-para-el-subsector-agricola-del-departamento-de-puno.pdf)
+
+SENAMHI. (2023). Boletín AGROCLIMÁTICO MENSUAL DZ 13. [https://www.senamhi.gob.pe/load/file/04724SENA-117.pdf](https://www.senamhi.gob.pe/load/file/04724SENA-117.pdf)
+
+SENAMHI. (2021). Caracterización de la sequía agrícola para los cultivos de papa y quinua en el departamento de Puno, Perú. [https://repositorio.senamhi.gob.pe/handle/20.500.12542/1569](https://repositorio.senamhi.gob.pe/handle/20.500.12542/1569)
+
+SENAMHI. (2021). LAS CARAS DE LA SEQUÍA en el departamento de Puno, Perú. [https://pachayatina.senamhi.gob.pe/storage/las-caras-de-la-sequia.pdf](https://pachayatina.senamhi.gob.pe/storage/las-caras-de-la-sequia.pdf)
