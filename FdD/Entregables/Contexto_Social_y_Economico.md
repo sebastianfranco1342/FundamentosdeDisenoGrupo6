@@ -121,7 +121,7 @@ Frente a la crisis hídrica que pasaba Chile, la Comisión Nacional de Riego del
 
 Por otro lado, el Instituto de Desarrollo Agropecuario promueve el buen uso del agua en las zonas rurales y urbanas del país mediante programas como: Programa de Riego Asociativo (PRA), Programa de Riego Individual (PRI), Programa de Obras Menores de Riego (PROM) y Bono Legal del Agua (BLA).
 
-abla 2: Presupuesto y cobertura que han tenido los programas
+Tabla 2: Presupuesto y cobertura que han tenido los programas
 ![Presupuesto y cobertura que han tenido los programas.](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Cuadro%201.png?raw=true)
 
 Fuente: *Moreno, 2022*
