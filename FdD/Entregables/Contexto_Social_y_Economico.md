@@ -14,6 +14,8 @@ Imágen 1: El estrés hidrico en el mundo (Merino, 2023).
 2. **Nivel Regional**
 
 **En América del Norte**
+
+//
 **Estados Unidos:**
 En el año 2023, el fenómeno climático La Niña produjo una feroz sequía que afectó a diversos agricultores de importantes sembríos de trigo en Estados Unidos, quienes llegaron al punto de casi abandonar sus cultivos. Referente a ello, el Departamento de Agricultura de los Estados Unidos (USDA) declaró en un informe que, para el año 2023, se espera que los productores cosechen solo el 67% de sus plantaciones, lo cual sería la tasa de cosecha más baja desde 1917 (USDA, 2023).
 
