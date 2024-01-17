@@ -54,9 +54,10 @@ Fuente: *SENAMHI, 2019*
 
 Además de ello, durante el mes de Septiembre en el 2023, se han registrado entre 20 a 30 días secos consecutivos en Cajamarca y Puno, este número resultó ser mayor al que el SENAMHI había establecido para esa temporada que era de 15 a 19 días.
 
+Imágen 5: Días secos consecutivos en el mes de Septiembre del 2023
 ![Días secos consecutivos en el mes de Septiembre del 2023](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%204.png?raw=true)
 
-Imágen 5: Días secos consecutivos en el mes de Septiembre del 2023. (SENAMHI, 2023).
+Fuente: *SENAMHI, 2023*
 
 **Puno:**
 En Enero del 2023, Puno tuvo su mes más seco, esto se debe a la falta de lluvias durante la zona. Según el SENAMHI (2023), hubo el déficit de lluvias de la zona se encontraba entre -30% a -100% durante una periodo de 10 a 23 días. Este fenómeno ocasionó un gran déficit hídrico para la zona, ocasionando la descendencia de los niveles de agua del Lago Titicaca y el retraso de diversos cultivos (quinua, papa y avena) en su cosecha debido a su bajo desarrollo en condiciones secas.
@@ -72,15 +73,17 @@ El SENAMHI pronosticó que existiría una escasez de lluvias durante el 2022 al 
 La escasez de agua es una preocupación importante para el futuro sostenible de la humanidad y la conservación de los ecosistemas. La escasez de agua puede ser física, donde hay una falta real de agua, o económica, donde el agua está disponible pero no se puede utilizar debido a limitaciones económicas o institucionales.
 La “insuficiencia económica de agua para la agricultura” se interpreta como la ausencia de riego debido a restricciones institucionales y financieras, en lugar de limitaciones de agua. Hasta ahora, no se sabe dónde se encuentran las áreas de cultivo que sufren de falta de agua desde una perspectiva económica ni cuál es su potencial productivo. Se ha realizado un estudio agro hidrológico mensual para identificar las áreas agrícolas afectadas por la falta económica de agua, descubriendo que estas áreas representan hasta el 25% de las tierras de cultivo globales, principalmente en África subsahariana, Europa oriental y Asia central. El riego sostenible de las tierras de cultivo que sufren de escasez económica de agua podría proporcionar alimentos a 840 millones de personas adicionales y, al mismo tiempo, prevenir un empeoramiento de la escasez de agua dulce.
 
+Imagen 6: Marco conceptual y alcance de los SAT agrícolas
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%205.png?raw=true)
 
-Imagen 6: Marco conceptual y alcance de los SAT agrícolas ()
+Fuente: ()
 
 Solo el 77% de las áreas cultivadas globalmente son alimentadas por lluvia, mientras que el 23% son actualmente irrigadas. Dentro de los cultivos nutridos por la lluvia, solo el 24% no posee escasez de agua verde, contrario que con el 76%. Entre el 28–38% se indica la escasez de agua azul para el sector que dependen de la lluvia, siendo menor la escasez para las areas irrigadas que varían entre 11-16%. Esto representa áreas donde los recursos de agua superficial y subterránea son insuficientes.
 
+Imagen 7: La distribución geográfica de la falta de agua a nivel mundial para la agricultura
 ![Marco conceptual y alcance de los SAT agrícolas](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%206.png?raw=true)
 
-Imagen 7: La distribución geográfica de la falta de agua a nivel mundial para la agricultura. ()
+Fuente: ()
 
 Durante el periodo entre 1996-2005 se estudió 130 cultivos primarios para analizar la escasez de agua verde, azul y escasez económica. Se puede observar que grandes partes de África, Asia y América del Sur enfrentan problemas significativos de escasez de agua agrícola, mientras que partes del subcontinente indio, regiones del medio oriente y áreas de África sufren de escasez económica, se puede interpretar que hay suficiente agua físicamente disponible para la agricultura (tanto agua azul como verde), pero debido a limitaciones económicas o institucionales, esta agua no se puede utilizar eficazmente. 
 
@@ -89,49 +92,54 @@ Durante el periodo entre 1996-2005 se estudió 130 cultivos primarios para anali
 **México:**
 Los altos valores de estrés hídrico que presenta México, de no ser que se intervengan de manera rápida, ocasionará que los estados que presenta alta escasez hídrica, como el Bajío, tengan su economía detenida puesto que ellos han de tener que financiar múltiples gastos para que se de una mejor organización con respecto al agua.
 
+Imagen 8: Impacto del estrés hídrico
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%207.png?raw=true)
 
-Imagen 8: Impacto del estrés hídrico. (S&P Global Ratings)
+Fuente: *S&P Global Ratings*
 
 Frente a esta gran escasez hídrica, “el presupuesto federal de 2023 casi triplicó el fondeo para infraestructuras hídricas de $15,300 millones de pesos mexicanos (MXN) (unos US$800 millones) a MXN 44,500 millones (unos US$2,400 millones)” (S&P Global, 2023).
 
+Gráfica 1: Presupuesto de agua de México del 2012 a 2023
 ![Características de las sequías en términos de intensidad y severidad](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Gr%C3%A1fico%201.png?raw=true)
 
-Gráfica 1: Presupuesto de agua de México del 2012 a 2023. (Secretaría de Hacienda y Crédito Público (SHCP PEF, 2012- 2023))
+Fuente: *Secretaría de Hacienda y Crédito Público (SHCP PEF, 2012- 2023)*
 
 **Estados Unidos:**
 Estados Unidos es el mayor productor agrícola en una gran gama de productos como soja, maíz, trigo, algodón, entre muchos otros, así como el principal exportador de estos mismos productos. Acorde al Departamento de Agricultura de Estados Unidos, este sector primario aporta entre un 5,4 % a 6 % del PBI anual y en el 2021 cerca de 21,1 millones de puestos de trabajo a tiempo completo o parcial estaban conectados con el sector agrícola y alimentario (Santander Trade, 2023).
 
+Tabla 2: Valor de la producción agrícola en Estados Unidos entre 2015 y 2021 (en millones de dólares)
 ![Valor de la producción agrícola en Estados Unidos entre 2015 y 2021](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Tabla%202.png?raw=true)
 
-Tabla 2: Valor de la producción agrícola en Estados Unidos entre 2015 y 2021 (en millones de dólares) (Statista, 2019.)
+Fuente: *Statista, 2019*
 
 **Chile:**
 Frente a la crisis hídrica que pasaba Chile, la Comisión Nacional de Riego del país aportó 29 mil millones de pesos mediante diversos programas de ayuda durante el 2018 a 2021. Además de ello, “ha bonificado proyectos por más de 206 mil millones de pesos que tienen como objeto apoyar la mejora en infraestructura hídrica a nivel intra y extrapredial de pequeños agricultores y sus organizaciones” (Alfredo, 2022).
 
 Por otro lado, el Instituto de Desarrollo Agropecuario promueve el buen uso del agua en las zonas rurales y urbanas del país mediante programas como: Programa de Riego Asociativo (PRA), Programa de Riego Individual (PRI), Programa de Obras Menores de Riego (PROM) y Bono Legal del Agua (BLA).
 
-
+abla 2: Presupuesto y cobertura que han tenido los programas
 ![Presupuesto y cobertura que han tenido los programas.](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Cuadro%201.png?raw=true)
 
-Tabla 2: Presupuesto y cobertura que han tenido los programas. (Moreno, 2022).
+Fuente: *Moreno, 2022*
 
 3. **Nacional**
 
 El desempeño del sector agropecuario peruano ha sido muy positivo durante los últimos años con un rendimiento bastante destacable específicamente en el área de las agroexportaciones. Se tenía pronosticado que para el 2023 el sector agropecuario del Perú logre mantener su ritmo de crecimiento anual del 4% en promedio como en los últimos 20 años (Vinelli, 2022).
 Sin embargo, el fenómeno de El Niño costero a principios de 2023 y el ciclón Yaku, han llevado al sector agropecuario peruano a contraerse por primera vez en varios años. Esto se ve reflejado en la reducción del empleo en el sector agrícola del 20%  afectando a 121,000 personas (Agronline, 2023).
 
+Imágen 9: Empleos que se han perdido en el sector exportador en el 2023
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%208.png?raw=true)
 
-Imágen 9: Empleos que se han perdido en el sector exportador en el 2023. (Diario Gestión, 2023)
+Fuente: *Diario Gestión, 2023*
 
 Entre las principales metas que se plantea el sector para este año 2024 son la extensión del Seguro Agrícola Catastrófico (SAC) para proteger alrededor de 2 millones de hectáreas que enfrentan la posible presencia de eventos climáticos y el mejoramiento de los sistemas hídricos así como el eficiente aprovechamiento de estos recursos; estos 2 enfoques benefician de modo directo a 798,337 pequeños y medianos productores agropecuarios (Gob, 2023).
 
 Para lograr estas metas La Ministra de Desarrollo Agrario y Riego, Jennifer Contreras, declaró que el pliego presupuestal para el 2024 es de S/.  2,720 millones, de los cuales se destinarán  S/. 502 millones para el programa de aprovechamiento de los recursos hídricos y S/. 234 millones de soles para la atención de emergencias (Contreras, 2023).
 
+Imagen 10: Ministra Jennifer Contreras sustento presupuesto 2023 de S/ 2.720 millones y recursos para inversiones en el agro
 ![Impacto del estrés hídrico](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/En2_Imagen%209.png?raw=true)
 
-Imágen 10: Ministra Jennifer Contreras sustento presupuesto 2023 de S/ 2.720 millones y recursos para inversiones en el agro. (Diario Gob.pe, 2023)
+Fuente: *Diario Gob.pe, 2023*
 
 Fuentes:
 - Agronline. (2023, diciembre 26). Recuperación en el horizonte: Perspectivas del sector agrícola peruano para 2024.
