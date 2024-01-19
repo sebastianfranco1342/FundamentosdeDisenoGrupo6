@@ -115,3 +115,27 @@ Imágen 10. Temperature and humidity measurement instrument (Xu Lianggui, Lu Zhe
 ![Req. F](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entr4_Req_F.png?raw=true)
 
 ![Req. NF](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entr4_Req_NF.png?raw=true)
+
+##  Bibliografía
+
+- Aguirre, A. & Carlos, J. (2020). WO2020263069 - SYSTEM FOR THE REAL-TIME SYNCHRONISATION OF THE MEASUREMENTS OF A NETWORK OF WEATHER SENSORS WITH A CENTRAL SERVER. [https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020263069&_cid=P10-LRJTOS-18100-1](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020263069&_cid=P10-LRJTOS-18100-1)
+
+- Arshad, J.; Aziz, M.; Al-Huqail, A.A.; Zaman, M.H.u.; Husnain, M.; Rehman, A.U.; Shafiq, M. Implementation of a LoRaWAN Based Smart Agriculture Decision Support System for Optimum Crop Yield. Sustainability 2022, 14, 827. [https://doi.org/10.3390/su14020827](https://doi.org/10.3390/su14020827)
+
+- EIC Group. (s.f.). Estación meteorológica WatchDog 2900ET.  [https://eiccontrols.com/es/inicio/395-estacion-meteorologica-watchdog-2900et.html](https://eiccontrols.com/es/inicio/395-estacion-meteorologica-watchdog-2900et.html)
+
+- Gupta, R. et al., "WB-CPI: Predicción de cultivos basada en el clima en la India mediante análisis de big data", en IEEE Access, vol. 9, pp. 137869-137885, 2021. WB-CPI: Predicción de cultivos basada en el clima en India mediante análisis de big data | Diarios y revistas del IEEE | IEEE Xplore. [https://ieeexplore.ieee.org/document/9557312](https://ieeexplore.ieee.org/document/9557312)
+
+- Hinge, G.; Mohamed, M.M.; Long, D.; Hamouda, M.A. Meta-Analysis in Using Satellite Precipitation Products for Drought Monitoring: Lessons Learnt and Way Forward. Remote Sens. 2021, 13, 4353. [https://doi.org/10.3390/rs13214353](https://doi.org/10.3390/rs13214353)
+
+- Kaplun, D., Deka, S., Bora, A., Choudhury, N., Basistha, J., Purkayastha, B., Mazumder, I.Z., Gulvanskii, V., Sarma, K.K., Misra, D.D. An intelligent agriculture management system for rainfall prediction and fruit health monitoring (2024) Scientific Reports, 14 (1), art. no. 512,[https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181464149&doi=10.1038%2fs41598-023-49186-y&partnerID=40&md5DOI: 10.1038/s41598-023-49186-y ](https://pubmed.ncbi.nlm.nih.gov/38177254/#:~:text=The%20proposed%20system%20based%20on,models%20for%20fruit%20health%20monitoring.)
+
+- Liangui, X. & Zhenglian, L. Temperature and humidity measurement instrument. [https://patents.google.com/patent/CN104048700A/en](https://patents.google.com/patent/CN104048700A/en)
+
+- Seeed Studio. (2023). Grove - Temperature & Humidity Sensor (DHT11). [https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html)
+
+- Naylamp Mechatronics (s.f.). Sensor de Humedad del Suelo FC-28. [https://naylampmechatronics.com/sensores-temperatura-y-humedad/47-sensor-de-humedad-de-suelo-fc-28.html](https://naylampmechatronics.com/sensores-temperatura-y-humedad/47-sensor-de-humedad-de-suelo-fc-28.html)
+
+- Wang, M., Wei, W., Zhang, M. & Zhang, Q. (2022). Farmland ecological environment meteorological monitoring device. [https://worldwide.espacenet.com/patent/search/family/083889349/publication/CN217766885U?q=pn%3DCN217766885U](https://worldwide.espacenet.com/patent/search/family/083889349/publication/CN217766885U?q=pn%3DCN217766885U)
+
+- 
