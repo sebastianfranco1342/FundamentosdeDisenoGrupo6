@@ -138,5 +138,3 @@ Imágen 10. Temperature and humidity measurement instrument (Xu Lianggui, Lu Zhe
 - Naylamp Mechatronics (s.f.). Sensor de Humedad del Suelo FC-28. [https://naylampmechatronics.com/sensores-temperatura-y-humedad/47-sensor-de-humedad-de-suelo-fc-28.html](https://naylampmechatronics.com/sensores-temperatura-y-humedad/47-sensor-de-humedad-de-suelo-fc-28.html)
 
 - Wang, M., Wei, W., Zhang, M. & Zhang, Q. (2022). Farmland ecological environment meteorological monitoring device. [https://worldwide.espacenet.com/patent/search/family/083889349/publication/CN217766885U?q=pn%3DCN217766885U](https://worldwide.espacenet.com/patent/search/family/083889349/publication/CN217766885U?q=pn%3DCN217766885U)
-
-- 
