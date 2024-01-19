@@ -131,7 +131,7 @@ Imágen 10. Temperature and humidity measurement instrument (Xu Lianggui, Lu Zhe
 
 - Kaplun, D., Deka, S., Bora, A., Choudhury, N., Basistha, J., Purkayastha, B., Mazumder, I.Z., Gulvanskii, V., Sarma, K.K., Misra, D.D. An intelligent agriculture management system for rainfall prediction and fruit health monitoring (2024) Scientific Reports, 14 (1), art. no. 512,[https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181464149&doi=10.1038%2fs41598-023-49186-y&partnerID=40&md5DOI: 10.1038/s41598-023-49186-y ](https://pubmed.ncbi.nlm.nih.gov/38177254/#:~:text=The%20proposed%20system%20based%20on,models%20for%20fruit%20health%20monitoring.)
 
-- Liangui, X. & Zhenglian, L. Temperature and humidity measurement instrument. [https://patents.google.com/patent/CN104048700A/en](https://patents.google.com/patent/CN104048700A/en)
+- Liangui, X. & Zhenglian, L. (2014) Temperature and humidity measurement instrument. [https://patents.google.com/patent/CN104048700A/en](https://patents.google.com/patent/CN104048700A/en)
 
 - Seeed Studio. (2023). Grove - Temperature & Humidity Sensor (DHT11). [https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html](https://www.seeedstudio.com/Grove-Temperature-Humidity-Sensor-DHT11.html)
 
