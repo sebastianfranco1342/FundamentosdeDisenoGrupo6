@@ -70,6 +70,7 @@ Características:
 
 -   Transmite datos de manera inalámbrica a 1 o varias estaciones lejanas de este diapositivo
 -   Larga vida del diapositivo de hasta 12 meses con baterías de litio AA
+
 ![Prod. 3](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entr4_Prod3.png?raw=true)
 
 Imágen 8. Estación meteorológica WatchDog 2900ET (WatchDog).
