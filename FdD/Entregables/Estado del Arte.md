@@ -36,7 +36,7 @@ Este estudio resume experiencias en el uso de sistemas de pronóstico de sequía
 
 ![Art. 4](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Entr4_Art_4.png?raw=true)
 
-Imágen 5: Meta-Analys in using Satellite Precupitation Products for Drought Monitoring: Lessons Learnt and Way Forward
+Imágen 5: Meta-Analysis in using Satellite Precupitation Products for Drought Monitoring: Lessons Learnt and Way Forward
 
 ## Contexto Comercial
 
