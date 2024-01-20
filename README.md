@@ -21,6 +21,13 @@ El Objetivo de Desarrollo Sostenible (ODS) al que espira nuestro proyecto es el 
 ![ODS6](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/ODS6.JPG)
 Fuente: Almagra, 2019
 
+#<p align = "justify"> En un mundo donde los recursos naturales son esenciales para el bienestar humano y el desarrollo sostenible, estamos enfrentando desafíos significativos en la gestión del agua, un recurso vital que sustenta la vida en nuestro planeta. Es en este contexto que nuestro equipo ha decidido enfocarse en el Objetivo de Desarrollo Sostenible (ODS) número 6: "Agua limpia y saneamiento". En específico el ODS 6.4 el cual pretende lograr el uso eficiente de los recursos hídricos en todos los sectores, de esta forma asegurando el abastecimiento de agua (ONU, 2023).
+
+
+Reconocemos que el acceso a agua limpia y la implementación de prácticas sostenibles en su uso son fundamentales para la seguridad alimentaria, la salud pública y la construcción de comunidades resilientes frente a los desafíos del cambio climático. A través de nuestro proyecto, buscamos proponer soluciones innovadoras que contribuyan al logro de los objetivos marcados por el ODS 6.4, impulsando así el bienestar de las comunidades locales y la salud de LOS cultivos y de nuestro planeta.
+</p>
+
+
 En un mundo donde los recursos naturales son esenciales para el bienestar humano y el desarrollo sostenible, estamos enfrentando desafíos significativos en la gestión del agua, un recurso vital que sustenta la vida en nuestro planeta. Es en este contexto que nuestro equipo ha decidido enfocarse en el Objetivo de Desarrollo Sostenible (ODS) número 6: "Agua limpia y saneamiento". En específico el ODS 6.4 el cual pretende lograr el uso eficiente de los recursos hídricos en todos los sectores, de esta forma asegurando el abastecimiento de agua (ONU, 2023).
 Reconocemos que el acceso a agua limpia y la implementación de prácticas sostenibles en su uso son fundamentales para la seguridad alimentaria, la salud pública y la construcción de comunidades resilientes frente a los desafíos del cambio climático. A través de nuestro proyecto, buscamos proponer soluciones innovadoras que contribuyan al logro de los objetivos marcados por el ODS 6.4, impulsando así el bienestar de las comunidades locales y la salud de LOS cultivos y de nuestro planeta.
 
@@ -41,16 +48,7 @@ Este proyecto va a ser elaborado por alumnos de la Universidad Peruana Cayetano 
 - Carpio Peralta Joaquin Felipe: Coordinador General
 - Pacheco Vidalon Sebastián Marcelo: Coordinador del Diseño de la Página Web
 
-## Carpetas de gestión del proyecto:
-<p align = "justify">  
- - **Documentación:** En esta sección se proporcionará información detallada sobre el proyecto, incluyendo instrucciones de instalación, uso, contribución y explicaciones sobre el diseño e implementación del proyecto. La documentación es crucial para que otros desarrolladores comprendan y colaboren en el proyecto.
- - **Hardware:** Servirá para almacenar y organizar los archivos relacionados con el hardware del proyecto. Esto puede incluir archivos de diseño de circuitos, esquemáticos, diagramas de conexión, listas de materiales, archivos de diseño 3D y cualquier otra documentación relacionada con el hardware físico del designio. La carpeta de hardware sirve como un lugar centralizado para todos los recursos y archivos necesarios para comprender, diseñar y construir el componente físico del proyecto.
- - **Imágenes:** Esta sección incluiremos imágenes relacionados al proyecto, así como los avances en cada entregable para evidenciar el avance progresivo del trabajo colaborativo, donde se incluirá la fecha y el entregable.
- - **Software:** En esta carpeta se almacenará el código fuente, scripts, archivos de configuración, recursos multimedia, documentación técnica, pruebas automatizadas, y cualquier otro recurso relacionado con el desarrollo y la implementación del software puesto que es un lugar centralizado para todos los recursos y archivos necesarios para comprender, desarrollar y mantener el software del proyecto.
- 
-</p>
-
- 
+## Carpetas de gestión del proyecto: 
  - **Documentación:** En esta sección se proporcionará información detallada sobre el proyecto, incluyendo instrucciones de instalación, uso, contribución y explicaciones sobre el diseño e implementación del proyecto. La documentación es crucial para que otros desarrolladores comprendan y colaboren en el proyecto.
  - **Hardware:** Servirá para almacenar y organizar los archivos relacionados con el hardware del proyecto. Esto puede incluir archivos de diseño de circuitos, esquemáticos, diagramas de conexión, listas de materiales, archivos de diseño 3D y cualquier otra documentación relacionada con el hardware físico del designio. La carpeta de hardware sirve como un lugar centralizado para todos los recursos y archivos necesarios para comprender, diseñar y construir el componente físico del proyecto.
  - **Imágenes:** Esta sección incluiremos imágenes relacionados al proyecto, así como los avances en cada entregable para evidenciar el avance progresivo del trabajo colaborativo, donde se incluirá la fecha y el entregable.
