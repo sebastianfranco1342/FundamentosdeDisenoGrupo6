@@ -18,7 +18,13 @@ Con la suma de R1 y R2 la resistencia resultante la sumamos con la R3 que está 
 
 1/Rt = 1/(1220 Ω) + 1/(1x10^5 Ω)
 
-R total = 1205.3 Ω
+R total = 1205.3 Ω = 1.21 KΩ
+
+![Evidencia](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje1_Evidencia.jpg?raw=true)
+
+Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo las mismas condiciones que en el ejercicio. 
+
+![Evidencia](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje1_Sim.png?raw=true)
 
 ### **Ejercicio2**: Determinar las resistencia total del siguiente circuito.
 
