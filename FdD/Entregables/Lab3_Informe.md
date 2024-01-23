@@ -1,6 +1,6 @@
-# Informe de Lab #3
+# Informe de Lab #3 "FUNDAMENTOS DE ELECTRÓNICA I"
  
-## Marco teorico:
+## Marco teórico:
 
 El presente  informe de laboratorio titulado “Fundamentos de Electrónica I” tiene como objetivo adentrarnos al uso de protoboard, circuitos básicos y demás componentes electrónicos. La electrónica es la rama de la física y la ingeniería que se encarga del estudio y aplicación de los circuitos, dispositivos y sistemas que utilizan corrientes de electrones para el procesamiento y transmisión de información. Comprende un conjunto de fundamentos teóricos y conceptos clave que son esenciales para comprender el funcionamiento de los componentes electrónicos y los circuitos.
 
@@ -140,4 +140,4 @@ Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo 
 
 ## Discusión:
 
-Para realzar los ejercicios se emplearon las formulas para encontrar las resistencias totales de circuitos en serie (Rt = R1 + R2 + R3), así como circuitos en pararlelos (1/Rt = 1/R1 + 1/R2 + 1/R3). Además de ello, para el ejercicio #4 se empleo la ley de Ohm que establece que el voltaje es equivalente a la Intensidad multiplicado por la resistencia total presente en el circuito (V = IxR). Además de ello, cuando se simulo el ejercicio #2, la resistencia seguía siendo equivalente a 1.19 KΩ. Esto se debe a que la simulación utilizada presenta limitaciones para todos los casos que este puede simular siendo un caso de cortocircuito fuera de los limites de este simulador. 
+Para realizar los ejercicios se emplearon las formulas para encontrar las resistencias totales de circuitos en serie (Rt = R1 + R2 + R3), así como circuitos en pararlelos (1/Rt = 1/R1 + 1/R2 + 1/R3). Además de ello, para el ejercicio #4 se empleo la ley de Ohm que establece que el voltaje es equivalente a la Intensidad multiplicado por la resistencia total presente en el circuito (V = IxR). Además de ello, cuando se simulo el ejercicio #2, la resistencia seguía siendo equivalente a 1.19 KΩ. Esto se debe a que la simulación utilizada presenta limitaciones para todos los casos que este puede simular siendo un caso de cortocircuito fuera de los limites de este simulador. 
