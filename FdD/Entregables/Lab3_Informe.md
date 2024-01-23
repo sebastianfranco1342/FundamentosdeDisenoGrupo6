@@ -10,7 +10,7 @@ Procedimiento:
 
 **Ejercicio3**: Determinar las resistencia total del siguiente circuito.
 
-![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Eidencia.jpeg)
+![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Ini.jpeg)
 
 Para encontrar la resistencia final se utilizaron resistencias equivalentes a 1x10^5 V.
 
