@@ -1,4 +1,4 @@
-# Informe de Lab #3 "FUNDAMENTOS DE ELECTRÓNICA I"
+# Informe de Laboratorio 3 "FUNDAMENTOS DE ELECTRÓNICA I"
  
 Integrantes:
 - Carpio Peralta Joaquín Felipe
