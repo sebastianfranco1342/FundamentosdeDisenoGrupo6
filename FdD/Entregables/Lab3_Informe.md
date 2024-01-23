@@ -1,6 +1,6 @@
 # Informe de Lab #3
  
-## Marco teorico: (Tabla de colores, ley de ohm, protoboard, etc....)
+## Marco teorico:
 
 El presente  informe de laboratorio titulado “Fundamentos de Electrónica I” tiene como objetivo adentrarnos al uso de protoboard, circuitos básicos y demás componentes electrónicos. La electrónica es la rama de la física y la ingeniería que se encarga del estudio y aplicación de los circuitos, dispositivos y sistemas que utilizan corrientes de electrones para el procesamiento y transmisión de información. Comprende un conjunto de fundamentos teóricos y conceptos clave que son esenciales para comprender el funcionamiento de los componentes electrónicos y los circuitos.
 
