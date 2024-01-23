@@ -1,8 +1,8 @@
-﻿Marco teorico: (Tabla de colores, ley de ohm, protoboard, etc....)
+﻿### Marco teorico: (Tabla de colores, ley de ohm, protoboard, etc....)
 
-Materiales:
+### Materiales:
 
-Procedimiento:
+### Procedimiento:
 
 **Ejercicio1**
 
@@ -80,4 +80,6 @@ Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo 
 
 ![Sim](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje4_Sim.png?raw=true)
 
-Discusión:
+### Discusión:
+
+Para realzar los ejercicios se emplearon las formulas para encontrar las resistencias totales de circuitos en serie (Rt = R1 + R2 + R3), así como circuitos en pararlelos (1/Rt = 1/R1 + 1/R2 + 1/R3). Además de ello, para el ejercicio #4 se empleo la ley de Ohm que establece que el voltaje es equivalente a la Intensidad multiplicado por la resistencia total presente en el circuito (V = IxR).
