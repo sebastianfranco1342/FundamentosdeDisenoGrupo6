@@ -1,14 +1,14 @@
-﻿### Marco teorico: (Tabla de colores, ley de ohm, protoboard, etc....)
+﻿## Marco teorico: (Tabla de colores, ley de ohm, protoboard, etc....)
 
-### Materiales:
+## Materiales:
 
-### Procedimiento:
+## Procedimiento:
 
-**Ejercicio1**
+### **Ejercicio1**
 
-**Ejercicio2**
+### **Ejercicio2**
 
-**Ejercicio3**: Determinar las resistencia total del siguiente circuito.
+### **Ejercicio3**: Determinar las resistencia total del siguiente circuito.
 
 ![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Ini.png)
 
@@ -34,7 +34,7 @@ Para comprobar la resistencia se realizo una simulación en tinkecard cumpliendo
 
 ![Simulación](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Sim.png?raw=true)
 
-**Ejercicio4**: Que el voltaje liberado sea equivalente a 1.1V si se tiene como voltaje inicial 5V.
+### **Ejercicio4**: Que el voltaje liberado sea equivalente a 1.1V si se tiene como voltaje inicial 5V.
 
 En el ejercicio 4, se utilizo esta secuencia de resistencias en el protoboard para conseguir una **V** out equivalente a 1.1 V.
 
@@ -80,6 +80,6 @@ Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo 
 
 ![Sim](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje4_Sim.png?raw=true)
 
-### Discusión:
+## Discusión:
 
 Para realzar los ejercicios se emplearon las formulas para encontrar las resistencias totales de circuitos en serie (Rt = R1 + R2 + R3), así como circuitos en pararlelos (1/Rt = 1/R1 + 1/R2 + 1/R3). Además de ello, para el ejercicio #4 se empleo la ley de Ohm que establece que el voltaje es equivalente a la Intensidad multiplicado por la resistencia total presente en el circuito (V = IxR).
