@@ -12,9 +12,12 @@ Procedimiento:
 
 ![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Ini.jpeg)
 
-Para encontrar la resistencia final se utilizaron resistencias equivalentes a 1x10^5 V.
+Para encontrar la resistencia final se utilizaron resistencias equivalentes a 1x10^5 V. La imágen presentada en el ejercicio se puede representar de la siguiente manera para que sea más sencillo entender lo que se debe de hacer
+
+![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Plant.jpeg)
 
 
+![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Ini.jpeg)
 
 **Ejercicio4**: Que el voltaje liberado sea equivalente a 1.1V si se tiene como voltaje inicial 5V.
 
