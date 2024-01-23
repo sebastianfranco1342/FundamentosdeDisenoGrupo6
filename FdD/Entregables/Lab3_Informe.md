@@ -1,6 +1,18 @@
-﻿## Marco teorico: (Tabla de colores, ley de ohm, protoboard, etc....)
+# Informe de Lab #3
+ 
+## Marco teorico: (Tabla de colores, ley de ohm, protoboard, etc....)
 
-## Materiales:
+El presente  informe de laboratorio titulado “Fundamentos de Electrónica I” tiene como objetivo adentrarnos al uso de protoboard, circuitos básicos y demás componentes electrónicos. La electrónica es la rama de la física y la ingeniería que se encarga del estudio y aplicación de los circuitos, dispositivos y sistemas que utilizan corrientes de electrones para el procesamiento y transmisión de información. Comprende un conjunto de fundamentos teóricos y conceptos clave que son esenciales para comprender el funcionamiento de los componentes electrónicos y los circuitos.
+
+Componentes activos: Hace referencia a los dispositivos que son capaces de proporcionar energía eléctrica al circuito (Diodos, transistores, circuitos integrados)
+
+Protoboard: Es una herramienta fundamental en electrónica que se utiliza para construir y probar circuitos electrónicos Consiste en una placa con orificios conectados eléctricamente en los que se pueden insertar y conectar componentes electrónicos, como resistencias, condensadores, transistores, entre otros, mediante cables de conexión.
+
+Componentes pasivos: Son aquellos elementos que no requieren fuente de alimentación externa y que pueden almacenar energía en forma de corriente (Amperaje) o voltaje (Voltios), como ejemplo se tiene a resistor, condensador e inductor.
+
+Ley de Ohm: La ley de Ohm establece la relación fundamental entre el voltaje (V), la corriente (I) y la resistencia (R) en un circuito eléctrico. Esta ley establece que el voltaje en un circuito es igual al producto de la corriente y la resistencia, expresado por la fórmula V=I*R. 
+
+Cálculo de la resistencia: Para saber el valor de una resistencia tenemos que fijarnos que tiene 3 bandas de colores seguidas y una cuarta más separada. Leyendo las bandas de colores de izquierda a derecha, las 3 primeras bandas nos determinarán su valor, la cuarta banda nos indica su tolerancia.
 
 ## Procedimiento:
 
