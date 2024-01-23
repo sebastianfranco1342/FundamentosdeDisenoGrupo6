@@ -8,7 +8,7 @@
 
 ![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje1_Ini.png?raw=true)
 
-Como los colores de la resistencia 1 (R1) son  cafe - negro - rojo se tendrá una resistencia de 1x10^3 Ω. Así con el resto de resistencias, siendo los colores de la resistencia 2 (R2) (rojo - rojo - café) equivalentes a 220 Ω y los colores de la resistencia 3 (R3) café - negro - amarillo equivalente 1x10^5 Ω.
+Como los colores de la resistencia 1 (R1) son  cafe - negro - rojo se tendrá una resistencia de 1x10^3 Ω. Así con el resto de resistencias, siendo los colores de la resistencia 2 (R2) (rojo - rojo - café) equivalentes a 220 Ω y los colores de la resistencia 3 (R3) café - negro - amarillo equivalente a 1x10^5 Ω.
 
 Para llegar el resultado de la Resistencia total primero sumamos las resistencias que están en serie (R1 y R2):
 
@@ -27,6 +27,28 @@ Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo 
 ![Evidencia](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje1_Sim.png?raw=true)
 
 ### **Ejercicio2**: Determinar las resistencia total del siguiente circuito.
+
+![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje2_Ini.png?raw=true)
+
+Como los colores de la resistencia 1 (R1) son  cafe - negro - rojo se tendrá una resistencia de 1x10^3 Ω. Así con el resto de resistencias, siendo los colores de la resistencia 2 (R2) (rojo - rojo - café) equivalentes a 220 Ω, los colores de la resistencia 3 (R3) café - negro - amarillo equivalente a 1x10^5 Ω, los colores de la resistencia 4 (R4) café - negro - amarillo equivalente a 1x10^5 Ω y los colores de la resistencia 5 (R5) café - negro - rojo equivalente a 1x10^3 Ω
+
+Para llegar el resultado de la Resistencia total primero sumamos las resistencias que están en serie (R1 y R2):
+
+R1 + R2 = 1x10^3 Ω + 220 Ω = 1220 Ω
+
+Con la suma de R1 y R2 la resistencia resultante la sumamos con la R3, R4 y R5 que está en paralelo.
+
+1/Rt = 1/(1220 Ω) + 1/(1x10^5 Ω) + 1/(1x10^5 Ω)
+
+Rt = 1190.94 Ω = 1.19 KΩ
+
+Sin embargo, puesto que la resistencia 5 está una misma columna, el resultado de la resistencia del cortocircuito es 0 Ω puesto que ocurre un cortocircuito.
+
+![Evidencia](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje2_Eidencia.jpeg?raw=true)
+
+Para comprobar la resistencia se realizo una simulación en tinkecard cumpliendo las mismas condiciones que en el ejercicio.
+
+![Simulación](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje2_Sim.png?raw=true)
 
 ### **Ejercicio3**: Determinar las resistencia total del siguiente circuito.
 
@@ -102,4 +124,4 @@ Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo 
 
 ## Discusión:
 
-Para realzar los ejercicios se emplearon las formulas para encontrar las resistencias totales de circuitos en serie (Rt = R1 + R2 + R3), así como circuitos en pararlelos (1/Rt = 1/R1 + 1/R2 + 1/R3). Además de ello, para el ejercicio #4 se empleo la ley de Ohm que establece que el voltaje es equivalente a la Intensidad multiplicado por la resistencia total presente en el circuito (V = IxR).
+Para realzar los ejercicios se emplearon las formulas para encontrar las resistencias totales de circuitos en serie (Rt = R1 + R2 + R3), así como circuitos en pararlelos (1/Rt = 1/R1 + 1/R2 + 1/R3). Además de ello, para el ejercicio #4 se empleo la ley de Ohm que establece que el voltaje es equivalente a la Intensidad multiplicado por la resistencia total presente en el circuito (V = IxR). Además de ello, cuando se simulo el ejercicio #2, la resistencia seguía siendo equivalente a 1.19 KΩ. Esto se debe a que la simulación utilizada presenta limitaciones para todos los casos que este puede simular siendo un caso de cortocircuito fuera de los limites de este simulador. 
