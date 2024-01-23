@@ -86,6 +86,8 @@ Rt = 2x10^5/3 = 66666.67 Ω = 66.67 KΩ
 
 ![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Eidencia.jpeg)
 
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje4_Indicadorjpg.jpg?raw=true" width="380" height="430">
+
 Para comprobar la resistencia se realizo una simulación en tinkecard cumpliendo las mismas condiciones que en el ejercicio.
 
 ![Simulación](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Sim.png?raw=true)
