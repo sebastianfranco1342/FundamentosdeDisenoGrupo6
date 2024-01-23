@@ -30,7 +30,7 @@ Rt = 2x10^5/3 = 66666.67 Ω = 66.67 KΩ
 
 ![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Eidencia.jpeg)
 
-Para comprobar la resistencia se realizo un
+Para comprobar la resistencia se realizo una simulación en tinkecard cumpliendo las mismas condiciones que en el ejercicio.
 
 ![Simulación](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Sim.png?raw=true)
 
@@ -76,7 +76,7 @@ En el caso de la resistencia 2, solo se uso una resistencia equivalente a 1 KΩ.
 
 ![Evidencia](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje4_Evidencia.jpg?raw=true)
 
-Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo las mismas condiciones que en el ejercicio
+Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo las mismas condiciones que en el ejercicio.
 
 ![Sim](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje4_Sim.png?raw=true)
 
