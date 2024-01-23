@@ -4,9 +4,23 @@
 
 ## Procedimiento:
 
-### **Ejercicio1**
+### **Ejercicio1**: Determinar las resistencia total del siguiente circuito.
 
-### **Ejercicio2**
+![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje1_Ini.png?raw=true)
+
+Como los colores de la resistencia 1 (R1) son  cafe - negro - rojo se tendrá una resistencia de 1x10^3 Ω. Así con el resto de resistencias, siendo los colores de la resistencia 2 (R2) (rojo - rojo - café) equivalentes a 220 Ω y los colores de la resistencia 3 (R3) café - negro - amarillo equivalente 1x10^5 Ω.
+
+Para llegar el resultado de la Resistencia total primero sumamos las resistencias que están en serie (R1 y R2):
+
+R1 + R2 = 1x10^3 Ω + 220 Ω = 1220 Ω
+
+Con la suma de R1 y R2 la resistencia resultante la sumamos con la R3 que está en paralelo.
+
+1/Rt = 1/(1220 Ω) + 1/(1x10^5 Ω)
+
+R total = 1205.3 Ω
+
+### **Ejercicio2**: Determinar las resistencia total del siguiente circuito.
 
 ### **Ejercicio3**: Determinar las resistencia total del siguiente circuito.
 
@@ -18,13 +32,13 @@ Para encontrar la resistencia final se utilizaron resistencias equivalentes a 1x
 
 Para llegar al resultado se sumaron los 3 pares de resistencias en serie:
 
-R3 + R1 = R6 + R5 = R4 + R2 = 1x10^5 + 1x10^5 = 2x10^5
+R3 + R1 = R6 + R5 = R4 + R2 = 1x10^5 Ω + 1x10^5 Ω = 2x10^5 Ω
 
 Y se sumaron las resistencias en serie
 
-1/Rt = 1/2x10^5 + 1/2x10^5 + 1/2x10^5
+1/Rt = 1/(2x10^5 Ω) + 1/(2x10^5 Ω) + 1/(2x10^5 Ω)
 
-1/Rt = 3/2x10^5
+1/Rt = 3/(2x10^5 Ω)
 
 Rt = 2x10^5/3 = 66666.67 Ω = 66.67 KΩ
 
