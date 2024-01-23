@@ -12,12 +12,27 @@ Procedimiento:
 
 ![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Ini.png)
 
-Para encontrar la resistencia final se utilizaron resistencias equivalentes a 1x10^5 V. La imágen presentada en el ejercicio se puede representar de la siguiente manera para que sea más sencillo entender lo que se debe de hacer
+Para encontrar la resistencia final se utilizaron resistencias equivalentes a 1x10^5 V y la imágen presentada en el ejercicio se puede representar de la siguiente manera para que sea más sencillo entender lo que se debe de hacer
 
-![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Plant.png)
+![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Plant.jpeg?raw=true)
 
+Para llegar al resultado se sumaron los 3 pares de resistencias en serie:
+
+R3 + R1 = R6 + R5 = R4 + R2 = 1x10^5 + 1x10^5 = 2x10^5
+
+Y se sumaron las resistencias en serie
+
+1/Rt = 1/2x10^5 + 1/2x10^5 + 1/2x10^5
+
+1/Rt = 3/2x10^5
+
+Rt = 2x10^5/3 = 66666.67 Ω = 66.67 KΩ
 
 ![Ini](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje_3_Eidencia.jpeg)
+
+Para comprobar la resistencia se realizo un
+
+![Simulación](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje3_Sim.png?raw=true)
 
 **Ejercicio4**: Que el voltaje liberado sea equivalente a 1.1V si se tiene como voltaje inicial 5V.
 
@@ -61,7 +76,7 @@ En el caso de la resistencia 2, solo se uso una resistencia equivalente a 1 KΩ.
 
 ![Evidencia](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje4_Evidencia.jpg?raw=true)
 
-Para comprobar el resultado, se realizo una simulación en tinkecard. Las resistencias dentro de la simulación son equivalentes a 1KΩ. 
+Para comprobar el resultado, se realizo una simulación en tinkecard cumpliendo las mismas condiciones que en el ejercicio
 
 ![Sim](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Eje4_Sim.png?raw=true)
 
