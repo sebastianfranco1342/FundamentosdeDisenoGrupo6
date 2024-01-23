@@ -8,9 +8,11 @@ Procedimiento:
 
 **Ejercicio2**
 
-**Ejercicio3**
+**Ejercicio3**: Determinar las resistencias del siguiente circuito.
 
-**Ejercicio4**: Que la voltaje liberado sea equivalente a 1.1V si se tiene como voltaje inicial 5V 
+
+
+**Ejercicio4**: Que el voltaje liberado sea equivalente a 1.1V si se tiene como voltaje inicial 5V.
 
 En el ejercicio 4, se utilizo esta secuencia de resistencias en el protoboard para conseguir una **V** out equivalente a 1.1 V. 
 
