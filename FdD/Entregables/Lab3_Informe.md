@@ -14,6 +14,8 @@ Ley de Ohm: La ley de Ohm establece la relación fundamental entre el voltaje (V
 
 Cálculo de la resistencia: Para saber el valor de una resistencia tenemos que fijarnos que tiene 3 bandas de colores seguidas y una cuarta más separada. Leyendo las bandas de colores de izquierda a derecha, las 3 primeras bandas nos determinarán su valor, la cuarta banda nos indica su tolerancia.
 
+![Resistencias](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab3_Resis.jpg?raw=true)
+
 ## Procedimiento:
 
 ### **Ejercicio1**: Determinar las resistencia total del siguiente circuito.
