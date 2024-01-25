@@ -23,6 +23,20 @@ Internet de las Cosas: Este concepto se refiere a la red gigante de dispositivos
 
 ### Actividad #1:
 
+Primero se debe de desatornillar la tapa y retirarla de la cápsula.
+
+
+
+Luego insertamos el arduino MKR IoT Carrier y lo ajustamos.
+
+
+
+Despues volvemos a tapar la cápsula con el arduino dentro.
+
+
+
+El arduino MKR IoT Carrier cuenta con un porta baterías 18650 Li-Ion en caso de que se quiera transportar el arduino.
+
 ### Actividad #2: Funcionar el codigo de temperatura y humedad en el arduino.
 
 Una vez verificado que funciona arduino, se decidio instalar el codigo proporcionado por la guía Explore IoT Kit sobre la temperatura y humedad.
