@@ -26,7 +26,7 @@ Una vez solucionado, se verifico el codigo y se subió en el arduino para que di
 
 En este caso necesitamos se implementaron 2 nuevos valores: temperatureF y temperatureK. Estos valores representan la temperatura en grados Farhenheit y Kelvin Respectivamente. Una vez establecidos, se le agregaron en el loop para que el arduino sepa como presentar los valores
 
-<p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Val.png?raw=true" width="220" height="220" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Void2.png?raw=true" width="220" height="220" />  </p>
+<p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Val.png?raw=true" width="400" height="320" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Void2.png?raw=true" width="400" height="320" />  </p>
 
 
 Además de ello también se implementaro nuevos valores del Touch para que cada momento se vuelva a tocar este sensor este cambie el valor de la temperatura. Finalmente, se implemento nuevos comandos dentro del comando void para que se puedan generar estos valores dentro de la pantalla del arduino con respecto a ciertos criterios ya establecidos como el tamaño de letra o el color de este.
