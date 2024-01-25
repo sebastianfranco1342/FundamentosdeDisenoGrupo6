@@ -46,7 +46,7 @@ Adicionalmente, una vez se tiene el código dentro del arduino para que este se 
 
 ![Pas4](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas4.png?raw=true)
 
-### Actividad #2: Funcionar el codigo de temperatura y humedad en el arduino.
+### Actividad #2: Programar el código de temperatura y humedad en el arduino.
 
 Una vez verificado que funciona arduino, se decidió instalar el código proporcionado por la guía Explore IoT Kit sobre la temperatura y humedad.
 
