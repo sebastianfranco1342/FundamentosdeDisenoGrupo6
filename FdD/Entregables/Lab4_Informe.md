@@ -52,7 +52,7 @@ Una vez verificado que funciona arduino, se decidió instalar el código proporc
 
 ![codigo](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje2_Cod.png?raw=true)
 
-Lamentablemente, a pesar de que se había conectado el arduino con la computadora, este no lo podía leer. Así que se tuvo que instalar el Arduino Create Agent para solucionar el problema.
+Lamentablemente, a pesar de que se había conectado el arduino con la computadora, este no lo podía leer; así que se tuvo que instalar el Arduino Create Agent para solucionar el problema.
 
 ![Arduino Create Agent](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje2_ACA.png?raw=true)
 
