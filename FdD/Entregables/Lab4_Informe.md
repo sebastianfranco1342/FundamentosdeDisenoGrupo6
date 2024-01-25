@@ -25,17 +25,19 @@ Internet de las Cosas: Este concepto se refiere a la red gigante de dispositivos
 
 Primero se debe de desatornillar la tapa y retirarla de la cápsula.
 
+![Pas1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas1.png?raw=true)
 
+Luego insertamos el arduino MKR IoT Carrier y lo ajustamos con tornillas ya brindados por el Kit.
 
-Luego insertamos el arduino MKR IoT Carrier y lo ajustamos.
+![Pas2](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas2.png?raw=true)
 
+Finalmente volvemos a tapar la cápsula con el arduino dentro.
 
+![Pas3](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas1.png?raw=true)
 
-Despues volvemos a tapar la cápsula con el arduino dentro.
+Adicionalmente, una vez se tiene el codigo dentro del arduino para que este se opere, se le pone una batería para que este funcione sin necesidad de estar conectado a la computadora.
 
-
-
-El arduino MKR IoT Carrier cuenta con un porta baterías 18650 Li-Ion en caso de que se quiera transportar el arduino.
+![Pas4](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas1.png?raw=true)
 
 ### Actividad #2: Funcionar el codigo de temperatura y humedad en el arduino.
 
@@ -70,3 +72,7 @@ En este caso se modifico codigo voidTemperature para que el color de la pantalla
 Para activar el sensor de proximidad PIR, se ingreso codigo dentro del voidloop que cambie el color de la pantalla en caso el sensor PIR detecte movimiento.
 
 ![Sens](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje4_Sens.png?raw=true)
+
+## Discusión:
+
+
