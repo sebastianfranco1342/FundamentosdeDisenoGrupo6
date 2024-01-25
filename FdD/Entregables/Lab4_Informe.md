@@ -76,13 +76,13 @@ En este caso se modifico codigo voidTemperature para que el color de la pantalla
 
 ![VoidT](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje4_VoidT.png?raw=true)
 
-Para activar el sensor de proximidad PIR, se ingreso codigo dentro del voidloop que cambie el color de la pantalla en caso el sensor PIR detecte movimiento.
+Para activar el sensor de proximidad PIR, se ingresó el código dentro del voidloop para que cambie el color de la pantalla en caso el sensor PIR detecte movimiento.
 
 ![Sens](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje4_Sens.png?raw=true)
 
 ## Discusión:
 
-A pesar de no tener problemas durante el primer ejercicio en el desamblaje del kit, durante el segundo ejercicio se tuvieron problemas respecto a la conexión directa entre la computadora y el arduino por lo que tuvimos que recurrir a un programa externo, Arduino Create Agent, para solucionar el problema. Además de ello, durante los ejercicios 3 y 4, se nos presentaron varios problemas a la hora de editar el codigo ya existente proporcionado por el sitio web debido a nuestra falta de conocimiento de este nuevo sistema ya que varios integrantes del grupo no estaban familiarizados con el arduino. Para enfrentar este problema, utilizamos el sitio guía del kit y una vez entendido el programa, se llego a editar correctamente el código.
+A pesar de no tener problemas durante el primer ejercicio en el desamblaje del kit, durante el segundo ejercicio se tuvieron problemas respecto a la conexión directa entre la computadora y el arduino por lo que tuvimos que recurrir a un programa externo, Arduino Create Agent, para solucionar el problema. Por otro lado, durante los ejercicios 3 y 4, se nos presentaron varios problemas a la hora de editar el código ya existente proporcionado por el sitio web debido a nuestra falta de conocimiento de este nuevo sistema ya que varios integrantes del grupo no estaban familiarizados con el arduino. Para enfrentar este problema utilizamos el sitio guía del kit, y una vez entendido el programa se llegó a editar correctamente el código.
 
 ## Conclusiones:
 
