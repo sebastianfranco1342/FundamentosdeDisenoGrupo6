@@ -1,4 +1,14 @@
-﻿### Actividad #2: Funcionar el codigo de temperatura y humedad en el arduino.
+# Informe de Lab #4
+
+## Introducción:
+
+## Marco Teórico:
+
+## Procedimiento y Resultados
+
+### Actividad #1:
+
+### Actividad #2: Funcionar el codigo de temperatura y humedad en el arduino.
 
 Una vez verificado que funciona arduino, se decidio instalar el codigo proporcionado por la guía Explore IoT Kit sobre la temperatura y humedad.
 
@@ -21,3 +31,6 @@ En este caso necesitamos se implementaron 2 nuevos valores: temperatureF y tempe
 Además de ello también se implemento nuevos valores del Touch para que cada momento se vuelva a tocar este sensor este cambie el valor de la temperatura. Finalmente, se implemento nuevos comandos void para que se puedan generar estos valores dentro de la pantalla del arduino.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Touch.png?raw=true" width="400" height="220" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Void.png?raw=true" width="320" height="220" />  </p>
+
+### Actividad #4: Realizar código de sensor de proximidad y que cambie de la pantalla con respecto a la temperatura.
+
