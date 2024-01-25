@@ -28,7 +28,7 @@ Arduino MKR WiFi 1010: Es una placa que sirve para diseñar aplicaciones básica
 
 ## Procedimiento y Resultados
 
-### Actividad #1:
+### Actividad #1: Ensamblaje del dispositivo
 
 Primero se debe de desatornillar la tapa y retirarla de la cápsula.
 
