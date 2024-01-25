@@ -1,5 +1,20 @@
-# Informe de Lab #4
+# Informe de laboratorio 4: "Internet de las cosas IoT"
+Docentes:
 
+- Mg Umberto Lewis De La Cruz
+- Mg. Paulo Camilo Vela Antón
+- Mg. Moisés Stevend Meza Rodríguez
+- Dr. Harry Anderson Rivera Tito
+- En g. Juan Manuel Zúñiga Mamani
+- En g. Renzo José Chan Ríos
+  
+Integrantes:
+- Carpio Peralta Joaquín Felipe
+- Franco Alegría Sebastián Stephano
+- Orosco Taype Mayerly Nicole
+- Pacheco Vidalón Sebastián Marcelo
+- Rioja Cruz Vanesa Doris
+- 
 ## Introducción:
 
 En el marco del taller de laboratorio de electrónica básica, hemos explorado los fundamentos prácticos de la electrónica mediante el uso del Explore Iot Kit (kit de arduino). Este kit, que incluye sensores de humedad, temperatura, proximidad y que viene integrado con luces LED, nos ha permitido fusionar teoría y aplicación de manera tangible.
