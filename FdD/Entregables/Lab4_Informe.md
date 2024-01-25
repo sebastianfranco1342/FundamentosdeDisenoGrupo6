@@ -40,4 +40,4 @@ En este caso se modifico codigo voidTemperature para que el color de la pantalla
 
 Para activar el sensor de proximidad PIR, se ingreso codigo dentro del voidloop que cambie el color de la pantalla en caso el sensor PIR detecte movimiento.
 
-
+![Sens](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje4_Sens.png?raw=true)
