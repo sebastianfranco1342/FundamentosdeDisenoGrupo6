@@ -35,3 +35,8 @@ Además de ello también se implementaro nuevos valores del Touch para que cada 
 
 ### Actividad #4: Realizar código de sensor de proximidad y que cambie de la pantalla con respecto a la temperatura.
 
+En este caso se modifico codigo voidTemperature para que el color de la pantalla de temperatura vaya a tomar o un color rojo o uno azul respecto a que si el valor de temperatura sobrepasa un rango ya establecido.
+
+
+
+
