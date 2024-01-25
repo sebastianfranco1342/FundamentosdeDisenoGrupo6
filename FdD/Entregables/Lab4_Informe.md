@@ -2,7 +2,22 @@
 
 ## Introducción:
 
+En el marco del taller de laboratorio de electrónica básica, hemos explorado los fundamentos prácticos de la electrónica mediante el uso del Explore Iot Kit (kit de arduino). Este kit, que incluye sensores de humedad, temperatura, proximidad y que viene integrado con luces LED, nos ha permitido fusionar teoría y aplicación de manera tangible.
+
+Este informe documenta nuestras experiencias prácticas, desde la conexión de componentes hasta la programación de microcontroladores, destacando los desafíos enfrentados y los resultados obtenidos. A través de esta experiencia, buscamos resaltar la importancia de la experimentación práctica en la comprensión de la electrónica y fomentar la aplicación directa de conocimientos teóricos en situaciones del mundo real.
+
+### Explore Iot Kit 
+Todas las actividades adoptan un enfoque de aprendizaje práctico en el que se adquieren conocimientos paso a paso mediante la construcción de soluciones totalmente funcionales. Este kit proporciona todas las herramientas y tutoriales necesarios para comprender los fundamentos de las cinco áreas distintas: Hardware, Seguridad, Programación, Red y Datos.
+
+- Encapsulado de la Carrier
+El conjunto también contiene una cubierta de plástico que puede ser empleada en ciertas actividades, brindando una capa adicional de protección a la MKR IoT Carrier y permitiendo su fijación a diversas superficies. Asimismo, todas las funciones de la MKR IoT Carrier pueden ser utilizadas aun cuando se encuentra dentro de la cubierta
+
+- Batería
+La MKR IoT Carrier incluye un soporte para batería 18650 Li-Ion que posibilita la operación autónoma de proyectos portátiles
+
 ## Marco Teórico:
+
+Internet de las Cosas: Este concepto se refiere a la red gigante de dispositivos conectados entre sí los cuales recopilan datos y lo comparten a través de todos los dispositivos del mundo. El Internet de las cosas o IoT (por sus siglas en inglés) es una forma de ver cómo nuestro mundo cada día más se está volviendo digital.
 
 ## Procedimiento y Resultados
 
