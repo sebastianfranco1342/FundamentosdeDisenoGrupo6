@@ -62,7 +62,7 @@ Una vez solucionado, se verificó el código y se subió en el arduino para que 
 
 ### Actividad #3: Cambiar las temperaturas de Celsius a Fahrenheit y de Fahrenheit a Celsius.
 
-En este caso necesitamos se implementaron 2 nuevos valores: temperatureF y temperatureK. Estos valores representan la temperatura en grados Farhenheit y Kelvin Respectivamente. Una vez establecidos, se le agregaron en el loop para que el arduino sepa como presentar los valores
+En este caso necesitamos se implementaron 2 nuevos valores: temperatureF y temperatureK. Estos valores representan la temperatura en grados Farhenheit y Kelvin respectivamente. Una vez establecidos, se agregaron en el loop para que el arduino presente los valores en esas unidades.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Val.png?raw=true" width="500" height="320" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje3_Void2.png?raw=true" width="500" height="320" />  </p>
 
