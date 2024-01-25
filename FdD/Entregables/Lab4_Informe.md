@@ -33,11 +33,11 @@ Luego insertamos el arduino MKR IoT Carrier y lo ajustamos con tornillas ya brin
 
 Finalmente volvemos a tapar la cápsula con el arduino dentro.
 
-![Pas3](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas1.png?raw=true)
+![Pas3](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas3.png?raw=true)
 
 Adicionalmente, una vez se tiene el codigo dentro del arduino para que este se opere, se le pone una batería para que este funcione sin necesidad de estar conectado a la computadora.
 
-![Pas4](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas1.png?raw=true)
+![Pas4](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas4.png?raw=true)
 
 ### Actividad #2: Funcionar el codigo de temperatura y humedad en el arduino.
 
@@ -74,5 +74,3 @@ Para activar el sensor de proximidad PIR, se ingreso codigo dentro del voidloop 
 ![Sens](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje4_Sens.png?raw=true)
 
 ## Discusión:
-
-
