@@ -19,6 +19,13 @@ La MKR IoT Carrier incluye un soporte para batería 18650 Li-Ion que posibilita 
 
 Internet de las Cosas: Este concepto se refiere a la red gigante de dispositivos conectados entre sí los cuales recopilan datos y lo comparten a través de todos los dispositivos del mundo. El Internet de las cosas o IoT (por sus siglas en inglés) es una forma de ver cómo nuestro mundo cada día más se está volviendo digital.
 
+Arduino Uno: Es una placa de microcontrolador de código abierto basado, equipada con conjuntos de pines digitales y analógicas que pueden conectarse a varias placas de expansión y otros circuitos. Es una tarjeta de desarrollo ideal para proyectos de hardware y de automatización programable que permite llevar a cabo ideas tanto personales como industriales, haciendo accesible su uso a cualquier persona.
+
+Arduino IDE: Llamado también entorno de desarrollo integrado (IDE), es una aplicación multiplataforma con la que se puede realizar programas con placas compatibles con Arduino.
+
+Arduino MKR WiFi 1010: Es una placa que sirve para diseñar aplicaciones básicas de Internet de las Cosas (IoT). Esta placa es una solución integral para muchos escenarios de aplicaciones de IoT. Además, la placa Arduino MKR WiFi 1010 permite conectarse a Internet y descargar contenido de una página web.
+
+
 ## Procedimiento y Resultados
 
 ### Actividad #1:
@@ -76,3 +83,12 @@ Para activar el sensor de proximidad PIR, se ingreso codigo dentro del voidloop 
 ## Discusión:
 
 A pesar de no tener problemas durante el primer ejercicio en el desamblaje del kit, durante el segundo ejercicio se tuvieron problemas respecto a la conexión directa entre la computadora y el arduino por lo que tuvimos que recurrir a un programa externo, Arduino Create Agent, para solucionar el problema. Además de ello, durante los ejercicios 3 y 4, se nos presentaron varios problemas a la hora de editar el codigo ya existente proporcionado por el sitio web debido a nuestra falta de conocimiento de este nuevo sistema ya que varios integrantes del grupo no estaban familiarizados con el arduino. Para enfrentar este problema, utilizamos el sitio guía del kit y una vez entendido el programa, se llego a editar correctamente el código.
+
+## Conclusiones:
+
+- A pesar de enfrentar desafíos en el taller de laboratorio, logramos superar obstáculos clave. La programación del Arduino desde la computadora nos obligó a ajustar el código según las indicaciones del docente, destacando la necesidad de adaptabilidad en entornos prácticos.
+
+- Destacamos nuestro éxito en el desarrollo del sensor de temperatura y humedad, evidenciando la aplicación efectiva de conocimientos teóricos. Asimismo, exploramos y sincronizamos los LEDs del kit con el sensor de proximidad, demostrando nuestra capacidad para integrar componentes de manera efectiva.
+
+- Se cumplió el objetivo de la sesión el cual fue familiarizarnos con el lenguaje de programación arduino y con el dispositivo MRK IoT Carrier
+
