@@ -72,7 +72,7 @@ Además de ello también se implementó nuevos valores del Touch para que cada m
 
 ### Actividad #4: Realizar código de sensor de proximidad y que cambie de la pantalla con respecto a la temperatura.
 
-En este caso se modifico codigo voidTemperature para que el color de la pantalla de temperatura vaya a tomar o un color rojo o uno azul respecto a que si el valor de temperatura sobrepasa un rango ya establecido.
+En este caso se modificó código voidTemperature para que el color de la pantalla de temperatura vaya a tomar o un color rojo o uno azul si es que el valor de temperatura sobrepasa un rango ya establecido.
 
 ![VoidT](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje4_VoidT.png?raw=true)
 
