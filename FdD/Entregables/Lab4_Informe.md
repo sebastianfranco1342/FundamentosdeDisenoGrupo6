@@ -42,7 +42,7 @@ Finalmente volvemos a tapar la cápsula con el arduino dentro.
 
 ![Pas3](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas3.png?raw=true)
 
-Adicionalmente, una vez se tiene el codigo dentro del arduino para que este se opere, se le pone una batería para que este funcione sin necesidad de estar conectado a la computadora.
+Adicionalmente, una vez se tiene el código dentro del arduino para que este se opere, se le pone una batería para que este funcione sin necesidad de estar conectado a la computadora.
 
 ![Pas4](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje1_Pas4.png?raw=true)
 
