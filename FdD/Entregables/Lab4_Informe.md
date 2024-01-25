@@ -10,14 +10,4 @@ Lamentablemente, debido a que a pesar de que se había conecatdo el arduino con 
 
 Una vez solucionado, se verifico el codigo y se subió en el arduino para que diera los valores de humedad y temperatura en el lugar.
 
-<div>
-<p style = 'text-align:center;'>
-<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje2_Hum.jpeg?raw=true" width="380" height="430">
-</p>
-</div>
-
-<div>
-<p style = 'text-align:center;'>
-<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje2_Temp.jpeg?raw=true" width="380" height="430">
-</p>
-</div>
+<p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje2_Temp.jpeg?raw=true" width="220" height="220" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab4_Eje2_Hum.jpeg?raw=true" width="220" height="220" />  </p>
