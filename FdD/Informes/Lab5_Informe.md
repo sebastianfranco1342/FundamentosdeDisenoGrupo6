@@ -41,6 +41,8 @@ En OnShape, los colores proporcionan una guía visual útil facilitando la ident
 - Azul: Indica que la geometría está bien construida. Sin embargo, necesita estar completamente definida, por ejemplo, acotar medidas de los lados del boceto.
 - Negro: Indica que las líneas y la geometría están completamente definidas y resueltas. El boceto está listo para su uso en operaciones de modelado posteriores.
 
+A continuación se presenta el procedimiento de las actividades realizadas en el laboratorio.
+
 # 3. Procedimiento y Resultados
 
 ### Ejercicio 0: Recrear una vaso
