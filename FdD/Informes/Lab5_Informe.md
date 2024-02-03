@@ -55,8 +55,6 @@ Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del
 
 En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diferentes objetivos. Además de ello, con este nuevo conociemiento se nos facilitarála recreación de nuestro prototipo ganador en 3D.
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Bandit from STALKER" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/184cc07e71a448e4bd7cdf51762cae85/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/bandit-from-stalker-184cc07e71a448e4bd7cdf51762cae85?utm_medium=embed&utm_campaign=share-popup&utm_content=184cc07e71a448e4bd7cdf51762cae85" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Bandit from STALKER </a> by <a href="https://sketchfab.com/3dmodelsst?utm_medium=embed&utm_campaign=share-popup&utm_content=184cc07e71a448e4bd7cdf51762cae85" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> 3dmodelsst </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=184cc07e71a448e4bd7cdf51762cae85" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
-
 ## Bibliografía
 
 Sanchez, C. (2021). Recursos para apoyo en la docencia de Onshape, Solid Edge y Keyshot. Escuela Técnica Superior de Ingenieros Industriales - UPM. https://oa.upm.es/68137/1/TFG_CRISTINA_SANCHEZ_RETAMOSA.pdf
