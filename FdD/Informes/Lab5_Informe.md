@@ -51,7 +51,7 @@ Además de su elaboración, también se llegó a imprimir en 3D este modelo para
 
 Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del grupo es la primera vez utilizando este sitio web así como los comandos extrude, shell y fillet. Además de ello, no todos teníamos los materiales deseados para realizar la actividad, dificultando mucho más la elaboración de estos modelos. A pesar de los contratiempos, llegamos a realizar los modelos pedidos demostrando resilencia a la hora de trabajar.
 
-https://cdn.thingiverse.com/assets/57/56/1f/b3/a0/large_display_70bcaf90-c91b-4229-a059-5c5e0b6e41a6.png
+![a](https://cdn.thingiverse.com/assets/57/56/1f/b3/a0/large_display_70bcaf90-c91b-4229-a059-5c5e0b6e41a6.png)
 
 ## Conclusión
 
