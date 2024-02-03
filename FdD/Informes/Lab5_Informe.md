@@ -62,7 +62,7 @@ En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar m
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3D Viewer</title>
+    <title>Onshape Model Viewer</title>
     <script src="https://cad.onshape.com/js/embed.js"></script>
 </head>
 <body>
