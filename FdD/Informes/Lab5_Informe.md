@@ -1,6 +1,21 @@
 ﻿# INFORME 5: "INTRODUCCIÓN AL MODELO 3D"
 
-## Introducción
+## Docentes:
+- Mg Umberto Lewis De La Cruz
+- Mg. Paulo Camilo Vela Antón
+- Mg. Moisés Stevend Meza Rodríguez
+- Dr. Harry Anderson Rivera Tito
+- En g. Juan Manuel Zúñiga Mamani
+- En g. Renzo José Chan Ríos
+
+## Integrantes:
+- Carpio Peralta Joaquín Felipe
+- Franco Alegría Sebastián Stephano
+- Orosco Taype Mayerly Nicole
+- Pacheco Vidalón Sebastián Marcelo
+- Rioja Cruz Vanesa Doris
+  
+### Introducción
 
 En el presente informe de laboratorio denominado “Introducción a la impresión 3D” el cuál tiene como objetivo principal, familiarizarnos con las herramientas tecnológicas, mediante el uso de una plataforma de diseño, llamada Onshape. Nos sirve para  diseñar, simular y compartir nuestros modelos directamente desde un navegador web para luego ser impresas.
 
