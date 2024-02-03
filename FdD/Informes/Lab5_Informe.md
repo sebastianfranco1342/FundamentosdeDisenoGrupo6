@@ -1,4 +1,4 @@
-! [] (https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/logo-OFICIAL.png)
+! [Logo_oficial](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/logo-OFICIAL.png)
  # INFORME 5: "INTRODUCCIÓN AL MODELO 3D"
 
 ## Docentes:
