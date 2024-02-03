@@ -31,9 +31,7 @@ En OnShape, los colores proporcionan una guía visual útil facilitando la ident
 
 Para realizar este vaso se utilizo como el plano superior del trabajo y se utilizaron los comandos de extrude, shell y fillet. El resultado final fue el siguiente.
 
-<p align = "center">
-  ![Vaso1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Vaso.png?raw=true) 
-</p>
+![Vaso1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Vaso.png?raw=true) 
 
 [Para revisar el modelo 3D hacer click](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Hardware/Vaso_1.stl)
 
