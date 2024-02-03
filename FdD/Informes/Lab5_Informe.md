@@ -1,4 +1,4 @@
-! [Logo_oficial](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/logo-OFICIAL.png)
+
  # INFORME 5: "INTRODUCCIÓN AL MODELO 3D"
 
 ## Docentes:
@@ -74,7 +74,7 @@ Además de su elaboración, también se llegó a imprimir en 3D este modelo para
 
 Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del grupo es la primera vez utilizando este sitio web así como los comandos extrude, shell y fillet. Además de ello, no todos teníamos los materiales deseados para realizar la actividad, dificultando mucho más la elaboración de estos modelos. A pesar de los contratiempos, llegamos a realizar los modelos pedidos demostrando resilencia a la hora de trabajar.
 
-# 5.Conclusión
+# 5. Conclusión
 
 En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diferentes objetivos. Además de ello, con este nuevo conociemiento se nos facilitarála recreación de nuestro prototipo ganador en 3D.
 
