@@ -1,13 +1,17 @@
-﻿# Informe 
-<!DOCTYPE html>  
-<html lang="en">  
-<head>  
-		<meta charset="UTF-8">  
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">  
-		<title>Onshape Model Viewer</title>  
-		<script src="https://cad.onshape.com/js/embed.js"></script>  
-</head>  
-<body>  
-		<iframe src="https://cad.onshape.com/documents/48810522679692dac14fdaf2/w/8a74bd5aee4fb77c04011ad8/vw/9111d3a8f4e21d776cf2ef90?embedded=true" width="100%" height="600"></iframe>	
-</body>  
-</html>
+﻿# Informe 5
+
+## Introducción
+
+## Marco Teórico
+
+## Procedimiento y Resultados
+
+Ejercicio 0: Recrear una vaso
+
+Para realizar este vaso se utilizo como el plano superior del trabajo y se utilizaron los comandos de extrude, shell y fillet. 
+
+Ejercicio 1
+
+## Discusión
+
+## Conclusión
