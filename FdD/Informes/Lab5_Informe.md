@@ -49,7 +49,10 @@ En este caso se nos pidió realizar una pequeña carcasa que pueda ser usado par
 
 Además de su elaboración, también se llegó a imprimir en 3D este modelo para comprobar de su eficacia en guardar el arduino mini.
 
-<p align="center"> <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Ard1.jpg?raw=true" width="220" height="300" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Ard2.jpg?raw=true" width="220" height="300" />  </p>
+<p align="center"> 
+<img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Ard1.jpg?raw=true alt=Arduino>
+  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Ard2.jpg?raw=true alt=Arduino>
+</p>
 
 ## Discusión
 
