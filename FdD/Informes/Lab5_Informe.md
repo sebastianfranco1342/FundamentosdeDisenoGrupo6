@@ -81,7 +81,7 @@ El resultado final sería el siguiente:
 
 ### Ejercicio 1: Hacer una base para el arduino
 
-En este caso se nos pidió realizar una pequeña carcasa que pueda ser usado para guardar el Arduino Uno. Para su elaboración se utilizaron diferentes sketchs y multiples comandos extrude y shell. El resultado fue el siguiente.
+En este caso se nos pidió realizar una pequeña carcasa que pueda ser usado para guardar el Arduino Uno. Para su elaboración nos basamos de una imagen con sus dimensiones para que se hiciera con el fin de que se pudiera usar y se utilizaron diferentes sketchs y multiples comandos como extrude y shell. El resultado fue el siguiente.
 
 <p align="center">
   <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Arduino.png?raw=true alt=Arduino>
