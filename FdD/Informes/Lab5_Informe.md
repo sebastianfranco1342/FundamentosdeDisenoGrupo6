@@ -2,7 +2,28 @@
 
 ## Introducción
 
+En el presente informe de laboratorio denominado “Introducción a la impresión 3D” el cuál tiene como objetivo principal, familiarizarnos con las herramientas tecnológicas, mediante el uso de una plataforma de diseño, llamada Onshape. Nos sirve para  diseñar, simular y compartir nuestros modelos directamente desde un navegador web para luego ser impresas.
+
+Durante la sesión de clase, abordamos múltiples metodologías para la modelación en 3D. El proceso comienza con la creación de un modelo tridimensional en un software de diseño, en este caso Onshape. Posterior a ello, el modelo digital se prepara para la impresión 3D mediante un software de preparación, este se divide en capas y genera un archivo en específico, puesto que ello contiene información sobre la geometría general y los parámetros de impresión. Luego, se elige el material de impresión. Finalmente, se da un pulido si es que lo requiere. 
+
+OnShape es una plataforma de diseño asistido por computadora (CAD) basada en la nube, que proporciona a los usuarios las herramientas necesarias para crear modelos 3D, realizar simulaciones y colaborar en tiempo real con otros diseñadores. Durante el taller, se abordaron diversas técnicas y herramientas esenciales para la modelación de objetos tridimensionales. A continuación, se detallarán las funciones principales de ensamblaje de la plataforma vistos durante el taller como también los modelados realizados.
+
 ## Marco Teórico
+
+En este informe de laboratorio, se llevará a cabo un análisis detallado de la calidad y precisión de las piezas impresas en 3D, así como una evaluación de los parámetros de impresión utilizados para su producción. A continuación se presentará una breve revisión de la literatura para conocer y familiarizarnos con los términos que se emplean en esta rama.
+
+- Onshape: Es una plataforma de desarrollo que combina herramientas de diseño con colaboración en tiempo real, conocido como un potente software de diseño en 3D.
+- Extrusión: Es una operación de modelado 3D que implica estirar un perfil bidimensional a lo largo de un eje para crear una forma tridimensional.
+- Revolución: Es una operación que gira un boceto bidimensional alrededor de un eje (línea de construcción) para crear una forma tridimensional simétrica.
+- Redondeo: Es una operación que crea un borde biselado a partir de las aristas de un objeto, para evitar esquinas afiladas.
+- Vaciado: Es una operación que crea un espacio hueco o un agujero dentro de una pieza. Se logra seleccionando una región dentro de la pieza para eliminar su volumen.
+- Cota: Es una medida o un conjunto de medidas que especifican las dimensiones de un objeto.
+
+En OnShape, los colores proporcionan una guía visual útil facilitando la identificación de áreas que necesitan ajustes y aquellas que están completamente definidas.
+
+- Rojo: Se utiliza para resaltar y representar geometría no finalizada en un boceto. Señala que un elemento no está completamente definido y puede necesitar ajustes. Por ejemplo, cotas mal definidas.
+- Azul: Indica que la geometría está bien construida. Sin embargo, necesita estar completamente definida, por ejemplo, acotar medidas de los lados del boceto.
+- Negro: Indica que las líneas y la geometría están completamente definidas y resueltas. El boceto está listo para su uso en operaciones de modelado posteriores.
 
 ## Procedimiento y Resultados
 
@@ -33,3 +54,5 @@ Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del
 ## Conclusión
 
 En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diferentes objetivos. Además de ello, con este nuevo conociemiento se nos facilitarála recreación de nuestro prototipo ganador en 3D.
+
+## Bibliografía
