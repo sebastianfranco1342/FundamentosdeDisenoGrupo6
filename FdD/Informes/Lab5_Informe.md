@@ -57,6 +57,21 @@ Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del
 
 En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diferentes objetivos. Además de ello, con este nuevo conociemiento se nos facilitarála recreación de nuestro prototipo ganador en 3D.
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Viewer</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+</head>
+<body>
+    <script>
+        // Your Three.js code to load and display the 3D model
+    </script>
+</body>
+</html>
+
 ## Bibliografía
 
 Sanchez, C. (2021). Recursos para apoyo en la docencia de Onshape, Solid Edge y Keyshot. Escuela Técnica Superior de Ingenieros Industriales - UPM. https://oa.upm.es/68137/1/TFG_CRISTINA_SANCHEZ_RETAMOSA.pdf
