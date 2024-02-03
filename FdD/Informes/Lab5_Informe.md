@@ -24,6 +24,8 @@ En este caso se nos pidió realizar una pequeña carcasa que pueda ser usado par
 
 Además de su elaboración, también se llegó a imprimir en 3D este modelo para comprobar de su eficacia en guardar el arduino mini.
 
+<p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Ard1.jpg?raw=true" width="220" height="220" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Ard2.jpg?raw=true" width="220" height="220" />  </p>
+
 ## Discusión
 
 Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del grupo es la primera vez utilizando este sitio web así como los comandos extrude, shell y fillet. Además de ello, no todos teníamos los materiales deseados para realizar la actividad, dificultando mucho más la elaboración de estos modelos. A pesar de los contratiempos, llegamos a realizar los modelos pedidos demostrando resilencia a la hora de trabajar.
