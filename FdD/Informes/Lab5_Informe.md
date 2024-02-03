@@ -60,13 +60,11 @@ En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar m
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3D Viewer</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <title>Onshape Model Viewer</title>
+    <script src="https://cad.onshape.com/js/embed.js"></script>
 </head>
 <body>
-    <script>
-        // Your Three.js code to load and display the 3D model
-    </script>
+    <iframe src="https://cad.onshape.com/documents/your_document_id/vw/element_id?embedded=true" width="100%" height="600"></iframe>
 </body>
 </html>
 
