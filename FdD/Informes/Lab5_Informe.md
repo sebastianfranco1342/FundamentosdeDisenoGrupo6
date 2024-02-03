@@ -15,7 +15,7 @@
 - Pacheco Vidalón Sebastián Marcelo
 - Rioja Cruz Vanesa Doris
   
-### Introducción
+# 1. Introducción
 
 En el presente informe de laboratorio denominado “Introducción a la impresión 3D” el cuál tiene como objetivo principal, familiarizarnos con las herramientas tecnológicas, mediante el uso de una plataforma de diseño, llamada Onshape. Nos sirve para  diseñar, simular y compartir nuestros modelos directamente desde un navegador web para luego ser impresas.
 
@@ -23,7 +23,7 @@ Durante la sesión de clase, abordamos múltiples metodologías para la modelaci
 
 OnShape es una plataforma de diseño asistido por computadora (CAD) basada en la nube, que proporciona a los usuarios las herramientas necesarias para crear modelos 3D, realizar simulaciones y colaborar en tiempo real con otros diseñadores. Durante el taller, se abordaron diversas técnicas y herramientas esenciales para la modelación de objetos tridimensionales. A continuación, se detallarán las funciones principales de ensamblaje de la plataforma vistos durante el taller como también los modelados realizados.
 
-## Marco Teórico
+# 2. Marco Teórico
 
 En este informe de laboratorio, se llevará a cabo un análisis detallado de la calidad y precisión de las piezas impresas en 3D, así como una evaluación de los parámetros de impresión utilizados para su producción. A continuación se presentará una breve revisión de la literatura para conocer y familiarizarnos con los términos que se emplean en esta rama.
 
@@ -40,7 +40,7 @@ En OnShape, los colores proporcionan una guía visual útil facilitando la ident
 - Azul: Indica que la geometría está bien construida. Sin embargo, necesita estar completamente definida, por ejemplo, acotar medidas de los lados del boceto.
 - Negro: Indica que las líneas y la geometría están completamente definidas y resueltas. El boceto está listo para su uso en operaciones de modelado posteriores.
 
-## Procedimiento y Resultados
+# 3. Procedimiento y Resultados
 
 ### Ejercicio 0: Recrear una vaso
 
@@ -69,14 +69,14 @@ Además de su elaboración, también se llegó a imprimir en 3D este modelo para
   <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Ard2.jpg?raw=true alt=Arduino width="220" height="300">
 </p>
 
-## Discusión
+# 4. Discusión
 
 Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del grupo es la primera vez utilizando este sitio web así como los comandos extrude, shell y fillet. Además de ello, no todos teníamos los materiales deseados para realizar la actividad, dificultando mucho más la elaboración de estos modelos. A pesar de los contratiempos, llegamos a realizar los modelos pedidos demostrando resilencia a la hora de trabajar.
 
-## Conclusión
+# 5.Conclusión
 
 En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diferentes objetivos. Además de ello, con este nuevo conociemiento se nos facilitarála recreación de nuestro prototipo ganador en 3D.
 
-## Bibliografía
+# 6.Bibliografía
 
 Sanchez, C. (2021). Recursos para apoyo en la docencia de Onshape, Solid Edge y Keyshot. Escuela Técnica Superior de Ingenieros Industriales - UPM. https://oa.upm.es/68137/1/TFG_CRISTINA_SANCHEZ_RETAMOSA.pdf
