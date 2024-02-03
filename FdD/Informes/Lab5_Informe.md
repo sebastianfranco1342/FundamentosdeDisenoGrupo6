@@ -41,7 +41,9 @@ Para realizar este vaso se utilizo como el plano superior del trabajo y se utili
 
 En este caso se nos pidió realizar una pequeña carcasa que pueda ser usado para guardar el Arduino Uno. Para su elaboración se utilizaron diferentes sketchs y multiples comandos extrude y shell. El resultado fue el siguiente.
 
-![Vaso1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Arduino.png?raw=true)
+<p align="center">
+  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Arduino.png?raw=true alt=Arduino>
+</p>
 
 [Para revisar el modelo 3D hacer click](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Hardware/Carcasa_Arduino.stl)
 
