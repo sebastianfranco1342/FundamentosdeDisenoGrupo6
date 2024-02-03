@@ -22,7 +22,7 @@ En el presente informe de laboratorio denominado “Introducción a la impresió
 
 Durante la sesión de clase, abordamos múltiples metodologías para la modelación en 3D. El proceso comienza con la creación de un modelo tridimensional en un software de diseño, en este caso Onshape. Posterior a ello, el modelo digital se prepara para la impresión 3D mediante un software de preparación, este se divide en capas y genera un archivo en específico, puesto que ello contiene información sobre la geometría general y los parámetros de impresión. Luego, se elige el material de impresión. Finalmente, se da un pulido si es que lo requiere. 
 
-OnShape es una plataforma de diseño asistido por computadora (CAD) basada en la nube, que proporciona a los usuarios las herramientas necesarias para crear modelos 3D, realizar simulaciones y colaborar en tiempo real con otros diseñadores. Durante el taller, se abordaron diversas técnicas y herramientas esenciales para la modelación de objetos tridimensionales. A continuación, se detallarán las funciones principales de ensamblaje de la plataforma vistos durante el taller como también los modelados realizados.
+Resulta menester, rescatar la importancia de OnShape, dado que es una plataforma de diseño asistido por computadora (CAD) basada en la nube, que proporciona a los usuarios las herramientas necesarias para crear modelos 3D, realizar simulaciones y colaborar en tiempo real con otros diseñadores. Durante el taller, se abordaron diversas técnicas y herramientas esenciales para la modelación de objetos tridimensionales. A continuación, se detallarán las funciones principales de ensamblaje de la plataforma vistos durante el taller como también los modelados realizados.
 
 # 2. Marco Teórico
 
@@ -98,11 +98,12 @@ Además de su elaboración, también se llegó a imprimir en 3D este modelo para
 
 # 4. Discusión
 
-Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del grupo es la primera vez utilizando este sitio web así como los comandos extrude, shell y fillet. Además de ello, no todos teníamos los materiales deseados para realizar la actividad, dificultando mucho más la elaboración de estos modelos. A pesar de los contratiempos, llegamos a realizar los modelos pedidos demostrando resilencia a la hora de trabajar.
+La experiencia que tuvimos en el laboratorio al manipular equipos y materiales 3D fue fascinanste, aunque se nos dificultó la elaboración de estos modelos puesto que para gran parte del grupo es la primera vez utilizando este sitio web así como los comandos extrude, shell y fillet. Además de ello, no todos teníamos los materiales deseados para realizar la actividad, dificultando mucho más la elaboración de estos modelos. 
+A pesar de los contratiempos, llegamos a realizar los modelos pedidos demostrando resilencia a la hora de trabajar y logrando la impresión del modelo 3D.
 
 # 5. Conclusión
 
-En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diferentes objetivos. Además de ello, con este nuevo conociemiento se nos facilitarála recreación de nuestro prototipo ganador en 3D.
+En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diversos objetivos. Además de ello, con este nuevo conociemiento nos facilitará la creación de nuestro prototipo ganador en 3D. Esta experiencia nos permitió aplicar las habilidades aprendidas en un entorno práctico y nos preparó para el proceso de impresión del modelo 3D.
 
 # 6.Bibliografía
 
