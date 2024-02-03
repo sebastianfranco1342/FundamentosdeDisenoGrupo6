@@ -56,3 +56,5 @@ Se nos difilcuto la elaboración de estos modelos puesto que para gran parte del
 En conclusión, una vez familiarizados con el sitio web, aprendimos a realizar modelos 3D de diferentes formas con diferentes objetivos. Además de ello, con este nuevo conociemiento se nos facilitarála recreación de nuestro prototipo ganador en 3D.
 
 ## Bibliografía
+
+Sanchez, C. (2021). Recursos para apoyo en la docencia de Onshape, Solid Edge y Keyshot. Escuela Técnica Superior de Ingenieros Industriales - UPM. https://oa.upm.es/68137/1/TFG_CRISTINA_SANCHEZ_RETAMOSA.pdf
