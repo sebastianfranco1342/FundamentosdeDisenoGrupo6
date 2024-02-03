@@ -47,10 +47,34 @@ A continuación se presenta el procedimiento de las actividades realizadas en el
 
 ### Ejercicio 0: Recrear una vaso
 
-Para realizar este vaso se utilizo como el plano superior del trabajo y se utilizaron los comandos de extrude, shell y fillet. El resultado final fue el siguiente.
+Paso 1: Hacer un circulo
 
 <p align="center">
-  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Vaso.png?raw=true alt=Vaso>
+  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_V1.png?raw=true alt=Vaso>
+</p>
+
+Paso 2: Extruir el circulo para que tome una forma cilindrica
+
+<p align="center">
+  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_V2.png?raw=true alt=Vaso>
+</p>
+
+Paso 3: Realizar el comando shell para que tenga fondo
+
+<p align="center">
+  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_V3.png?raw=true alt=Vaso>
+</p>
+
+Paso 4: Realizar los bordes con el comando fillet
+
+<p align="center">
+  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_V4.png?raw=true alt=Vaso>
+</p>
+
+El resultado final sería el siguiente:
+
+<p align="center">
+  <img src=https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab5_Vaso.png?raw=true alt=Arduino>
 </p>
 
 [Para revisar el modelo 3D hacer click](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Hardware/Vaso_1.stl)
