@@ -19,6 +19,10 @@ Primero se puso el resister dentro del circuito eléctrico y se modifico para qu
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia_C.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia_P.png?raw=true" width="180" height="350" />  </p>
 
+Despues se coloca la batería y se conecta con el resistor. También se cambia el tipo de parte en la sección de propiedades a fuente de energía. 
+
+<p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bater%C3%ADa_C.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bater%C3%ADa_Ppng.png?raw=true" width="180" height="350" />  </p>
+
 ### Ejercicio #1: Realizar un circuito eléctrico de mínimo 6 componentes
 
 Para este ejercicio se utilizarán un panel solar (P123 Surface Mount), un regulador de voltaje de 5V (L7805CV), un diodo, (1N4007W), un módulo recargador de baterías TP4056, un portador de baterías (BK-18650-PC2) y un amplificador de voltaje (LM2596 DC-DC buck converter).
