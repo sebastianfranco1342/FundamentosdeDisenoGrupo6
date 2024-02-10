@@ -63,6 +63,8 @@ Y su visión 2D y 3D en la sección PCB es la siguiente.
 
 ## Discusión
 
+Debido a que la creación de esquemas de circuitos eléctricos es nuevo conocimiento para los integrantes del grupo, se nos dificulto su creación. Además de ello, los materiales que queremos utilizar no están disopnibles en flux.ai debido a que no están los modelos en su libreria de componentes. A pesar de estos problemos, llegamos afrontar cada uno de ellos, leyendo la documentación disponible en el sitio web para aprender el programa y utilizando otros materiales para elaborar el circuito eléctrico. 
+
 ## Conclusión
 
 En conclusión, este laboratorio nos permitió realizar diversos circuitos eléctricos que nos van a apoyar cuando realizemos el circuito eléctrico de nuestro prototipo. Además de ello, nos permitió a aprender los diferentes simbolos que se simbolizan globalmente los componentes del esquematico de un circuito electrico, mejorando nuestra comprensión de estos.
