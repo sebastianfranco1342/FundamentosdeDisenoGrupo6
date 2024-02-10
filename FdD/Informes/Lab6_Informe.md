@@ -35,6 +35,7 @@ En caso utilizar un bloque terminal (2-Position Screw Terminal) como una fuente 
 
 
 
+Y su visión 2D y 3D en la sección PCB es la siguiente.
 
 ### Ejercicio #2: Realizar un circuito eléctrico de mínimo 6 componentes
 
