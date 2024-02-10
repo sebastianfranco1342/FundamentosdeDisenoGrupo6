@@ -1,4 +1,4 @@
-﻿# Lab 6. Esquemático del circuito electrónico
+﻿# INFORME DE LABORATORIO 05: ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO
 
 ## Introducción
 
