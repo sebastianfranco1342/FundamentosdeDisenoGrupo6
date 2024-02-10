@@ -44,3 +44,9 @@ Y su visión 2D y 3D en la sección PCB es la siguiente.
 Para este ejercicio se utilizarán un panel solar (P123 Surface Mount), un regulador de voltaje de 5V (L7805CV), un diodo, (1N4007W), un módulo recargador de baterías TP4056, un portador de baterías (BK-18650-PC2) y un amplificador de voltaje (LM2596 DC-DC buck converter).
 
 Nosotros queríamos usar otro versión del panel solar y amplificador de voltaje pero tuvimos que utilizar estos debido a que los que buscamos no están presentes en la base de datos de flux.
+
+Primero unimos el panel solar con el regulador de voltaje.
+
+
+
+Despues de ello unimos el sistema con el 
