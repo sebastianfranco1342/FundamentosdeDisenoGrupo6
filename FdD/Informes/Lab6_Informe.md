@@ -6,8 +6,13 @@
 - Dr. Harry Anderson Rivera Tito
 - Ing. Juan Manuel Zuñiga Mamani
 - Ing. Renzo José Chan Ríos
-## Integrantes:
-
+## Integrantes📊
+- Carpio Peralta Joaquín Felipe
+- Franco Alegría Sebastián Stephano
+- Orosco Taype Mayerly Nicole
+- Pacheco Vidalón Sebastián Marcelo
+- Rioja Cruz Vanesa Doris
+  
 ### INTRODUCCIÓN:
 
 El presente trabajo tiene como objetivo retratar de manera detallada todo lo abordado durante el taller sobre la utilización de Flux AI para el modelado de circuitos. Durante la sesión, se exploraron diversas funcionalidades de esta herramienta, con el propósito de familiarizarnos con su uso y modelar el circuito que utilizaremos en nuestro proyecto.
@@ -97,7 +102,7 @@ Nosotros queríamos usar otro versión del panel solar y amplificador de voltaje
 
 <p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej2_PCB2D.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej2_PCB3D.png?raw=true" width="500" height="350" />  </p>
 
-###_Discusión🥇_
+### _Discusión🥇_
 
 Debido a que la creación de esquemas de circuitos eléctricos es nuevo conocimiento para los integrantes del grupo, se nos dificultó su creación. Además de ello, los materiales que queremos utilizar no están disopnibles en "flux.ai" debido a que no están los modelos en su librería de componentes. A pesar de estos problemos, llegamos afrontar cada uno de ellos, leyendo la documentación disponible en el sitio web para aprender el programa y utilizando otros materiales para elaborar el circuito eléctrico. 
 
