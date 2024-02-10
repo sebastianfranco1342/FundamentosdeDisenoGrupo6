@@ -62,7 +62,7 @@ Primero unimos el panel solar con el regulador de voltaje.
 
 Despues de ello unimos el sistema con el diodo y el módulo recargador de baterías YP4056.
 
-<p align="center" float="left"> <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Eje.2.2.png?raw=true" width="500" height="350" />  </p>
+<p align="center" float="left"> <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Eje.2.2.png?raw=true" width="500" height="500" />  </p>
 
 Finalmente el sistema lo unimos con el cargador de baterías y el amplificador de voltaje.
 
