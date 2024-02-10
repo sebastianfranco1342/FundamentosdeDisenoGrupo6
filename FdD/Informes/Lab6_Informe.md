@@ -54,6 +54,12 @@ Y su visión 2D y 3D en la sección PCB es la siguiente.
 
 Para este ejercicio se utilizarán un panel solar (P123 Surface Mount), un regulador de voltaje de 5V (L7805CV), un diodo, (1N4007W), un módulo recargador de baterías TP4056, un portador de baterías (BK-18650-PC2) y un amplificador de voltaje (LM2596 DC-DC buck converter).
 
+<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Panel.png?raw=true" width="250" height="300" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Regulador.png?raw=true" width="250" height="300" /> 
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Diodo.png?raw=true" width="250" height="300" />  </p>
+
+<p align="center" float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_TP4056.png?raw=true" width="250" height="300" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_CargadorB.png?raw=true" width="250" height="300" /> 
+<img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Booster.png?raw=true" width="250" height="300" />  </p>
+
 Nosotros queríamos usar otro versión del panel solar y amplificador de voltaje pero tuvimos que utilizar estos debido a que los que buscamos no están presentes en la base de datos de flux.
 
 Primero unimos el panel solar con el regulador de voltaje.
