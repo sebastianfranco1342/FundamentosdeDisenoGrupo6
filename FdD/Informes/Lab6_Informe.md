@@ -8,7 +8,7 @@
 
 Todos los ejercicios realizados en el lab se realizaron con el programa
 
-### Ejercicio #0: Realiza un circuito eléctrico para un led
+### Ejercicio #1: Realiza un circuito eléctrico para un led
 
 En este caso se han utilizado 3 componentes, una resistencia generica, una luz led (WP7113SRD/D) y una batería.
 
@@ -27,7 +27,7 @@ Finalmente se coloca el LED y se une con el resistor y con la batería.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_LED_C.png?raw=true" width="500" height="350" /> </p>
 
-### Ejercicio #1: Realizar un circuito eléctrico de mínimo 6 componentes
+### Ejercicio #2: Realizar un circuito eléctrico de mínimo 6 componentes
 
 Para este ejercicio se utilizarán un panel solar (P123 Surface Mount), un regulador de voltaje de 5V (L7805CV), un diodo, (1N4007W), un módulo recargador de baterías TP4056, un portador de baterías (BK-18650-PC2) y un amplificador de voltaje (LM2596 DC-DC buck converter).
 
