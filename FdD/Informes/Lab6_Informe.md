@@ -26,23 +26,23 @@ En este caso se han utilizado 3 componentes, una resistencia genérica, una luz 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bater%C3%ADa.png?raw=true" width="180" height="300" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_LED.png?raw=true" width="180" height="300" /> 
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia.png?raw=true" width="220" height="280" />  </p>
 
-Primero se puso el resister dentro del circuito eléctrico y se le modifico para que tuviera una resistencia de 330 ohm y cambiara su tipo de paquete.
+Primero se puso el resistor dentro del circuito eléctrico y se le modificó para que tuviera una resistencia de 330 ohm y cambiara su tipo de paquete.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia_C.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia_P.png?raw=true" width="180" height="350" />  </p>
 
-Despues se coloca la batería y se conecta con el resistor. También se cambia el tipo de parte en la sección de propiedades a fuente de energía. 
+Después, se coloca la batería y se conecta con el resistor. También se cambia el tipo de parte en la sección de propiedades a fuente de energía. 
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bater%C3%ADa_C.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bater%C3%ADa_Ppng.png?raw=true" width="250" height="350" />  </p>
 
-Finalmente se coloca el LED y se une con el resistor y con la batería.
+Finalmente, se coloca el LED y se une con el resistor y con la batería.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_LED_C.png?raw=true" width="500" height="350" /> </p>
 
-Las siguientes imagenes serían su visión 2D y 3D en la sección de PCB.
+Las siguientes imágenes serían su visión 2D y 3D en la sección de PCB.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej1.1_PCB2D.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej1.1_PCB3D.png?raw=true" width="500" height="350" />  </p>
 
-En caso utilizar un bloque terminal (2-Position Screw Terminal) como una fuente de energía, se siguen los mismos pasos anterior en la sección esquemática solo que se cambio el bloque terminal con la batería.
+En caso utilizar un bloque terminal (2-Position Screw Terminal) como una fuente de energía, se siguen los mismos pasos anteriores en la sección esquemática solo que se cambió el bloque terminal con la batería.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bloque_C.png?raw=true" width="500" height="350" /> </p>
 
@@ -74,8 +74,8 @@ Y su visión 2D y 3D en la sección PCB es la siguiente.
 
 ## Discusión
 
-Debido a que la creación de esquemas de circuitos eléctricos es nuevo conocimiento para los integrantes del grupo, se nos dificulto su creación. Además de ello, los materiales que queremos utilizar no están disopnibles en flux.ai debido a que no están los modelos en su libreria de componentes. A pesar de estos problemos, llegamos afrontar cada uno de ellos, leyendo la documentación disponible en el sitio web para aprender el programa y utilizando otros materiales para elaborar el circuito eléctrico. 
+Debido a que la creación de esquemas de circuitos eléctricos es nuevo conocimiento para los integrantes del grupo, se nos dificultó su creación. Además de ello, los materiales que queremos utilizar no están disopnibles en "flux.ai" debido a que no están los modelos en su librería de componentes. A pesar de estos problemos, llegamos afrontar cada uno de ellos, leyendo la documentación disponible en el sitio web para aprender el programa y utilizando otros materiales para elaborar el circuito eléctrico. 
 
 ## Conclusión
 
-En conclusión, este laboratorio nos permitió realizar diversos circuitos eléctricos que nos van a apoyar cuando realizemos el circuito eléctrico de nuestro prototipo. Además de ello, nos permitió a aprender los diferentes simbolos que se simbolizan globalmente los componentes del esquematico de un circuito electrico, mejorando nuestra comprensión de estos.
+En conclusión, este laboratorio nos permitió realizar diversos circuitos eléctricos que nos van a apoyar cuando realizemos el circuito eléctrico de nuestro prototipo. Además de ello, nos permitió a aprender los diferentes símbolos que simbolizan globalmente los componentes del esquemático de un circuito eléctrico, mejorando nuestra comprensión de estos.
