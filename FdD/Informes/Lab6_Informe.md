@@ -21,7 +21,7 @@ Todos los ejercicios realizados en el lab se realizaron con el programa
 
 ### Ejercicio #1: Realiza un circuito eléctrico para un led
 
-En este caso se han utilizado 3 componentes, una resistencia generica, una luz led (WP7113SRD/D) y una batería.
+En este caso se han utilizado 3 componentes, una resistencia genérica, una luz led (WP7113SRD/D) y una batería.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bater%C3%ADa.png?raw=true" width="180" height="300" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_LED.png?raw=true" width="180" height="300" /> 
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia.png?raw=true" width="220" height="280" />  </p>
