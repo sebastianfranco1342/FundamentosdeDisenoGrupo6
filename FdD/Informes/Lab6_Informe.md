@@ -4,6 +4,14 @@
 
 ## Marco Teórico
 
+- Flux.AI: Es un programa el cual tiene como objetivo crear modelos de circuitos electrónicos. Incorporando múltiples herramientas como una inteligencia artificial para optimizar los diseños, una gran variedad de componentes para modelar un diagrama y la capacidad de trabajar colaborativamente.
+
+- Diagrama de flujo: Es un modelo gráfico que representa el proceso, sistema, algoritmo o funcionamiento sistemático para facilitar la comprensión de esta misma. 
+
+- User Flow: Similar a un diagrama de flujo, tiene el propósito de graficar la ruta que se toma en un programa interactivo, tales como una página web o una aplicación para completar una tarea.
+
+- Prototipado de Software: Es el proceso en el que se crea una versión preliminar y simplificada de una aplicación o sistema que se está desarrollando. Existen diversos programas que ayudan a moldear y crear uno, tales como Figma, Appinventor, Scratch, entre otros.
+
 ## Ejercicios
 
 Todos los ejercicios realizados en el lab se realizaron con el programa
