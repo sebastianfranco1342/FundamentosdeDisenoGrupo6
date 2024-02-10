@@ -33,9 +33,11 @@ Las siguientes imagenes serían su visión 2D y 3D en la sección de PCB.
 
 En caso utilizar un bloque terminal (2-Position Screw Terminal) como una fuente de energía, se siguen los mismos pasos anterior en la sección esquemática solo que se cambio el bloque terminal con la batería.
 
-
+<p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bloque_C.png?raw=true" width="500" height="350" /> </p>
 
 Y su visión 2D y 3D en la sección PCB es la siguiente.
+
+<p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej1.2_PCB2D.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej1.2.1_PCB3D.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej1.2.2_PCB3D.png?raw=true" width="500" height="350" />  </p>
 
 ### Ejercicio #2: Realizar un circuito eléctrico de mínimo 6 componentes
 
