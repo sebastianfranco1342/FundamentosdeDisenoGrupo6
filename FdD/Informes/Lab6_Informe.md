@@ -15,7 +15,7 @@ En este caso se han utilizado 3 componentes, una resistencia generica, una luz l
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Bater%C3%ADa.png?raw=true" width="180" height="300" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_LED.png?raw=true" width="180" height="300" /> 
 <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia.png?raw=true" width="220" height="280" />  </p>
 
-Primero se puso el resister dentro del circuito eléctrico y se modifico para que tuviera una resistencia de 330 ohm.
+Primero se puso el resister dentro del circuito eléctrico y se le modifico para que tuviera una resistencia de 330 ohm y cambiara su tipo de paquete.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia_C.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Resistencia_P.png?raw=true" width="180" height="350" />  </p>
 
