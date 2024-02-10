@@ -47,10 +47,12 @@ Nosotros queríamos usar otro versión del panel solar y amplificador de voltaje
 
 Primero unimos el panel solar con el regulador de voltaje.
 
-
+![1](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Eje.2.1.png?raw=true)
 
 Despues de ello unimos el sistema con el diodo y el módulo recargador de baterías YP4056.
 
-
+![2](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Eje.2.2.png?raw=true)
 
 Finalmente el sistema lo unimos con el cargador de baterías y el amplificador de voltaje.
+
+![3](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Eje.2.3.png?raw=true)
