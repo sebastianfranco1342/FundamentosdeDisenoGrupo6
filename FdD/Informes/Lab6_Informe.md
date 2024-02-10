@@ -1,5 +1,5 @@
-<﻿# _INFORME DE LABORATORIO 06: ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO📑_
-## Docentes:👨‍🏫 align="center"> ﻿# _INFORME DE LABORATORIO 06: ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO📑_
+<﻿# _INFORME DE LABORATORIO 06: ESQUEMÁTICO DEL CIRCUITO ELECTRÓNICO📑_align="center">
+
 ## Docentes:👨‍🏫
 - Mg Umbert Lewis De La Cruz
 - Mg. Paulo Camilo Vela Antón
