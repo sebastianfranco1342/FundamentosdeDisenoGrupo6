@@ -60,3 +60,9 @@ Finalmente el sistema lo unimos con el cargador de baterías y el amplificador d
 Y su visión 2D y 3D en la sección PCB es la siguiente.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej2_PCB2D.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej2_PCB3D.png?raw=true" width="500" height="350" />  </p>
+
+## Discusión
+
+## Conclusión
+
+En conclusión, este laboratorio nos permitió realizar diversos circuitos eléctricos que nos van a apoyar cuando realizemos el circuito eléctrico de nuestro prototipo. Además de ello, nos permitió a aprender los diferentes simbolos que se simbolizan globalmente los componentes del esquematico de un circuito electrico, mejorando nuestra comprensión de estos.
