@@ -56,3 +56,5 @@ Despues de ello unimos el sistema con el diodo y el módulo recargador de bater�
 Finalmente el sistema lo unimos con el cargador de baterías y el amplificador de voltaje.
 
 ![3](https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Eje.2.3.png?raw=true)
+
+Y su visión 2D y 3D en la sección PCB es la siguiente.
