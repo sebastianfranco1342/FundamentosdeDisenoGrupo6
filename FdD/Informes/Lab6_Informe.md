@@ -31,6 +31,11 @@ Las siguientes imagenes serían su visión 2D y 3D en la sección de PCB.
 
 <p float="left">  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej1.1_PCB2D.png?raw=true" width="500" height="350" />  <img src="https://github.com/sebastianfranco1342/FundamentosdeDisenoGrupo6/blob/main/Carpetas%20del%20Proyecto/Im%C3%A1genes/Lab6_Ej1.1_PCB3D.png?raw=true" width="500" height="350" />  </p>
 
+En caso utilizar un bloque terminal (2-Position Screw Terminal) como una fuente de energía, se siguen los mismos pasos anterior en la sección esquemática solo que se cambio el bloque terminal con la batería.
+
+
+
+
 ### Ejercicio #2: Realizar un circuito eléctrico de mínimo 6 componentes
 
 Para este ejercicio se utilizarán un panel solar (P123 Surface Mount), un regulador de voltaje de 5V (L7805CV), un diodo, (1N4007W), un módulo recargador de baterías TP4056, un portador de baterías (BK-18650-PC2) y un amplificador de voltaje (LM2596 DC-DC buck converter).
