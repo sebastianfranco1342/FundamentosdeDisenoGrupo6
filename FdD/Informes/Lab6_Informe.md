@@ -49,4 +49,8 @@ Primero unimos el panel solar con el regulador de voltaje.
 
 
 
-Despues de ello unimos el sistema con el 
+Despues de ello unimos el sistema con el diodo y el módulo recargador de baterías YP4056.
+
+
+
+Finalmente el sistema lo unimos con el cargador de baterías y el amplificador de voltaje.
