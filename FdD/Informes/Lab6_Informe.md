@@ -2,6 +2,9 @@
 
 ## Introducción
 
+El presente trabajo tiene como objetivo retratar de manera detallada todo lo abordado durante el taller sobre la utilización de Flux AI para el modelado de circuitos. Durante la sesión, se exploraron diversas funcionalidades de esta herramienta, con el propósito de familiarizarnos con su uso y modelar el circuito que utilizaremos en nuestro proyecto.
+A lo largo del taller, se llevaron a cabo una serie de ejercicios prácticos diseñados para poner en práctica conceptos teóricos de la herramienta Flux AI. En este informe, se detallarán los pasos seguidos en cada uno de los ejercicios desarrollados, así como las observaciones y conclusiones obtenidas a partir de esta experiencia.
+
 ## Marco Teórico
 
 - Flux.AI: Es un programa el cual tiene como objetivo crear modelos de circuitos electrónicos. Incorporando múltiples herramientas como una inteligencia artificial para optimizar los diseños, una gran variedad de componentes para modelar un diagrama y la capacidad de trabajar colaborativamente.
