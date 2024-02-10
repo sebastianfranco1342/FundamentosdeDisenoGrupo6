@@ -32,7 +32,7 @@ A continuación realizamos las revisiones literarias, con el fin de conocer los 
 
 ### EJERCICIOS
 
-Todos los ejercicios realizados en el lab se realizaron con el programa
+Todos los ejercicios realizados en el presente laboratorio se realizaron con el programa Flux.AI el cuál contiene herramientas interactivas y diseñadas para realizar variados y sofisticados circuitos de acorde a las exigencias académicas. 
 
 ### Ejercicio N°1: Crear un circuito que pueda encender un LED
 
